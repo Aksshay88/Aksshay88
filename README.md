@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
 <h1 align="center">Hi 👋, I'm B A AKSSHAY</h1>
 
- <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Tech+Enthusiast;CSE+Undergrad"/>
+ <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Front+end+Developer;Tech+Enthusiast;CSE+Undergrad"/>
 
 <p align="center" width="150px">I am currently a Second Year student at Chennai Institute of Technology pursuing my B.E degree in Computer Science and Engineering.Here to contribute in Open Source projects and learn new things on the go.</p>
 
