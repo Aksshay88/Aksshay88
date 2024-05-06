@@ -40,10 +40,10 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Lua                      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -59,7 +59,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2024 18:40:45 UTC
+ Last Updated on 06/05/2024 18:40:19 UTC
 <!--END_SECTION:waka-->
 
 
