@@ -30,7 +30,25 @@
  
  
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2029%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.7%20million%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               5 mins              ████████████████░░░░░░░░░   62.80 % 
+HTML                     2 mins              ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+Solidity                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+
+🔥 Editors: 
+Neovim                   8 mins              █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -45,7 +63,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2024 18:42:43 UTC
+ Last Updated on 16/06/2024 18:43:00 UTC
 <!--END_SECTION:waka-->
 
 
