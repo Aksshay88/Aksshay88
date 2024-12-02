@@ -30,7 +30,23 @@
  
  
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2013%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.8%20million%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               13 mins             ███████████████████░░░░░░   74.98 % 
+gitconfig                4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+
+🔥 Editors: 
+Neovim                   18 mins             █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -45,7 +61,7 @@ Solidity                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2024 18:51:30 UTC
+ Last Updated on 02/12/2024 18:54:43 UTC
 <!--END_SECTION:waka-->
 
 
