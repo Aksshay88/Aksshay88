@@ -60,7 +60,9 @@ Python                   5 repos             ██░░░░░░░░░�
 Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
-
+<a href="https://monkeytype.com/profile/Aksshay88">
+        <img src="https://raw.githubusercontent.com/Aksshay88/Aksshay88/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+    </a>
 
 
  Last Updated on 06/01/2025 13:25:45 UTC
