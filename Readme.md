@@ -30,7 +30,7 @@
  
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.6%20million%20lines%20of%20code-blue)
 
@@ -60,12 +60,10 @@ Python                   5 repos             ██░░░░░░░░░�
 Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
-<a href="https://monkeytype.com/profile/Aksshay88">
-        <img src="https://raw.githubusercontent.com/Aksshay88/Aksshay88/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
-    </a>
 
 
- Last Updated on 06/01/2025 13:25:45 UTC
+
+ Last Updated on 06/01/2025 18:51:55 UTC
 <!--END_SECTION:waka-->
 
 
