@@ -10,11 +10,8 @@ settings:
     timezone: "GMT+5:30"
     text: "Last Updated: {DATE}"
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
-
-steps:
-  - name: Recent GitHub Activity - Profile Readme
-    uses: Readme-Workflows/recent-activity@v2.4.1
-
+  commit_username: "activity-bot"
+  commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   issue_opened: "❗️ Opened issue {ID} in {REPO}"
