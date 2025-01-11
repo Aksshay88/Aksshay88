@@ -27,6 +27,11 @@
 - 🎮 Playing video games.
   
 - 🎵 Listening to Music.
+
+# Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
  
  
  <!--START_SECTION:waka-->
