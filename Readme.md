@@ -29,7 +29,7 @@
 - 🎵 Listening to Music.
 
 
-## Recent Activity
+## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Aksshay88/Aksshay88](https://github.com/Aksshay88/Aksshay88)<br>
