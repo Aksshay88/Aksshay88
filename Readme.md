@@ -52,7 +52,7 @@
 ---
 ---
  <a href="https://monkeytype.com/profile/Aksshay88">
-   <img src="https://raw.githubusercontent.com/Aksshay88/Aksshay88/monkeytype/monkeytype-lb.svg" alt="My Monkeytype profile" />
+   <img src="https://raw.githubusercontent.com/Aksshay88/Aksshay88/monkeytype-readme/monkeytype-lb.svg" alt="My Monkeytype profile" />
  </a>
  ---
  
