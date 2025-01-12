@@ -5,7 +5,7 @@ settings:
   disabled_events: [create_repo, fork]
   url_text: "{REPO}{ID}"
   ignored_repos:
-    - aksshay88/aksshay88
+    - Aksshay88/Aksshay88
   date:
     timezone: "GMT+5:30"
     text: "Last Updated: {DATE}"
