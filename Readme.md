@@ -45,11 +45,16 @@
  ---
 
 ## Monkeytype Stats
-<a href="https://monkeytype.com/profile/aksshay88">
+<a href="https://monkeytype.com/profile/Aksshay88">
   <img src="https://raw.githubusercontent.com/Aksshay88/Aksshay88/monkeytype/monkeytype-lb.svg" alt="Monkeytype Profile" />
 </a>
 
 ---
+---
+ <a href="https://monkeytype.com/profile/Aksshay88">
+   <img src="https://raw.githubusercontent.com/Aksshay88/Aksshay88/monkeytype/monkeytype-lb.svg" alt="My Monkeytype profile" />
+ </a>
+ ---
  
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2051%20mins-blue)
