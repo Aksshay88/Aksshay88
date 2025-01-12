@@ -1,33 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
-<h1 align="center">Hi 👋, I'm B A AKSSHAY</h1>
-
- <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Front+end+Developer;Tech+Enthusiast;CSE+Undergrad"/>
-
-<p align="center" width="150px">I am currently a Second Year student at Chennai Institute of Technology pursuing my B.E degree in Computer Science and Engineering.Here to contribute in Open Source projects and learn new things on the go.</p>
-
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksshay88&label=Profile%20views&color=0e75b6&style=flat" alt="aksshay88" /> </p>
-
-- 🔭 I’m currently working on **Web Application projects**
-
-- 🌱 I’m currently learning **Data Struchtures and Algorithms**
-
-- 💬 Ask me about **Java and python**
-
-- 📫 How to reach me **aksshaybala8846@gmail.com**
-
-- ⚡ Fun fact **I am funny**
-
- **My Absolute Favorites:**
-- 💻 I love exploring new tech stack .
-  
-- ⚡ I love to Organize events.
-  
-- 🎮 Playing video games.
-  
-- 🎵 Listening to Music.
-
 
 ## Recent Activity ⚡
 
@@ -38,9 +9,6 @@
 4. ⬆️ Pushed 1 commit(s) to [Aksshay88/Leetcode-Solution](https://github.com/Aksshay88/Leetcode-Solution)<br>
 5. ⬆️ Pushed 1 commit(s) to [Aksshay88/Leetcode-Solution](https://github.com/Aksshay88/Leetcode-Solution)<br>
 <!--RECENT_ACTIVITY:end-->
-
-
-
 
  ---
 
