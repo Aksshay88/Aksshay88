@@ -32,11 +32,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Aksshay88/Aksshay88](https://github.com/Aksshay88/Aksshay88)<br>
+1. ⭐ Starred [Phineas/lanyard](https://github.com/Phineas/lanyard)<br>
 2. ⬆️ Pushed 1 commit(s) to [Aksshay88/Aksshay88](https://github.com/Aksshay88/Aksshay88)<br>
-3. ⬆️ Pushed 1 commit(s) to [Aksshay88/Leetcode-Solution](https://github.com/Aksshay88/Leetcode-Solution)<br>
-4. ⬆️ Pushed 1 commit(s) to [Aksshay88/Leetcode-Solution](https://github.com/Aksshay88/Leetcode-Solution)<br>
-5. ⬆️ Pushed 1 commit(s) to [Aksshay88/Leetcode-Solution](https://github.com/Aksshay88/Leetcode-Solution)<br>
+3. ⬆️ Pushed 1 commit(s) to [Aksshay88/Aksshay88](https://github.com/Aksshay88/Aksshay88)<br>
+4. ⬆️ Pushed 1 commit(s) to [Aksshay88/Aksshay88](https://github.com/Aksshay88/Aksshay88)<br>
+5. ⬆️ Pushed 1 commit(s) to [Aksshay88/Aksshay88](https://github.com/Aksshay88/Aksshay88)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
