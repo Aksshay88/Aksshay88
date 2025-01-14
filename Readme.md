@@ -3,10 +3,10 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Aksshay88/Leetcode-Solution](https://github.com/Aksshay88/Leetcode-Solution)<br>
-2. ⬆️ Pushed 1 commit(s) to [Aksshay88/Leetcode-Solution](https://github.com/Aksshay88/Leetcode-Solution)<br>
+1. ⭐ Starred [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC)<br>
+2. ⭐ Starred [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)<br>
 3. ⬆️ Pushed 1 commit(s) to [Aksshay88/Leetcode-Solution](https://github.com/Aksshay88/Leetcode-Solution)<br>
-4. ⭐ Starred [sdras/awesome-actions](https://github.com/sdras/awesome-actions)<br>
+4. ⬆️ Pushed 1 commit(s) to [Aksshay88/Leetcode-Solution](https://github.com/Aksshay88/Leetcode-Solution)<br>
 5. ⬆️ Pushed 1 commit(s) to [Aksshay88/Leetcode-Solution](https://github.com/Aksshay88/Leetcode-Solution)<br>
 <!--RECENT_ACTIVITY:end-->
 
