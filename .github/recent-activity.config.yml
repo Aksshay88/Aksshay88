@@ -6,6 +6,7 @@ settings:
   url_text: "{REPO}{ID}"
   ignored_repos:
     - Aksshay88/Aksshay88
+    - Aksshay88/Leetcode-Solution 
   date:
     timezone: "GMT+5:30"
     text: "Last Updated: {DATE}"
