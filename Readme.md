@@ -3,11 +3,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [suryaaprakassh/plaudren](https://github.com/suryaaprakassh/plaudren)<br>
-2. ⬆️ Pushed 63 commit(s) to [Aksshay88/C4GT](https://github.com/Aksshay88/C4GT)<br>
+1. ⬆️ Pushed 1 commit(s) to [Aksshay88/Leetcode-Solution](https://github.com/Aksshay88/Leetcode-Solution)<br>
+2. ⬆️ Pushed 1 commit(s) to [Aksshay88/Leetcode-Solution](https://github.com/Aksshay88/Leetcode-Solution)<br>
 3. ⬆️ Pushed 1 commit(s) to [Aksshay88/Leetcode-Solution](https://github.com/Aksshay88/Leetcode-Solution)<br>
 4. ⬆️ Pushed 1 commit(s) to [Aksshay88/Leetcode-Solution](https://github.com/Aksshay88/Leetcode-Solution)<br>
-5. ⬆️ Pushed 1 commit(s) to [Aksshay88/Leetcode-Solution](https://github.com/Aksshay88/Leetcode-Solution)<br>
+5. ⭐ Starred [suryaaprakassh/plaudren](https://github.com/suryaaprakassh/plaudren)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
