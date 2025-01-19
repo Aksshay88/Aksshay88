@@ -3,9 +3,9 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [suryaaprakassh/plaudren](https://github.com/suryaaprakassh/plaudren)<br>
-2. ⬆️ Pushed 63 commit(s) to [Aksshay88/C4GT](https://github.com/Aksshay88/C4GT)<br>
-3. ⬆️ Pushed 1 commit(s) to [pixelshiftorg/.github](https://github.com/pixelshiftorg/.github)<br>
+1. ⬆️ Pushed 1 commit(s) to [Aksshay88/stow](https://github.com/Aksshay88/stow)<br>
+2. ⭐ Starred [suryaaprakassh/plaudren](https://github.com/suryaaprakassh/plaudren)<br>
+3. ⬆️ Pushed 63 commit(s) to [Aksshay88/C4GT](https://github.com/Aksshay88/C4GT)<br>
 4. ⬆️ Pushed 1 commit(s) to [pixelshiftorg/.github](https://github.com/pixelshiftorg/.github)<br>
 5. ⬆️ Pushed 1 commit(s) to [pixelshiftorg/.github](https://github.com/pixelshiftorg/.github)<br>
 <!--RECENT_ACTIVITY:end-->
