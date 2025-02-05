@@ -30,12 +30,10 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     2 hrs 20 mins       █████████████████████████   99.78 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Stata                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   2 hrs 20 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -51,7 +49,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/02/2025 18:50:26 UTC
+ Last Updated on 05/02/2025 18:51:37 UTC
 <!--END_SECTION:waka-->
 
 
