@@ -3,11 +3,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)<br>
-2. ⭐ Starred [Lissy93/dashy](https://github.com/Lissy93/dashy)<br>
-3. ⭐ Starred [loco-rs/loco](https://github.com/loco-rs/loco)<br>
-4. ⭐ Starred [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-5. ⬆️ Pushed 1 commit(s) to [Aksshay88/stow](https://github.com/Aksshay88/stow)<br>
+1. ⭐ Starred [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)<br>
+2. ⭐ Starred [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)<br>
+3. ⭐ Starred [Lissy93/dashy](https://github.com/Lissy93/dashy)<br>
+4. ⭐ Starred [loco-rs/loco](https://github.com/loco-rs/loco)<br>
+5. ⭐ Starred [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
