@@ -3,8 +3,8 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Hackathon-5XA/.github](https://github.com/Hackathon-5XA/.github)<br>
-2. ⬆️ Pushed 1 commit(s) to [Hackathon-5XA/.github](https://github.com/Hackathon-5XA/.github)<br>
+1. ⬆️ Pushed 1 commit(s) to [Team-5XA/cold-recog](https://github.com/Team-5XA/cold-recog)<br>
+2. ⬆️ Pushed 1 commit(s) to [Team-5XA/cold-recog](https://github.com/Team-5XA/cold-recog)<br>
 3. ⬆️ Pushed 1 commit(s) to [Hackathon-5XA/.github](https://github.com/Hackathon-5XA/.github)<br>
 4. ⬆️ Pushed 1 commit(s) to [Hackathon-5XA/.github](https://github.com/Hackathon-5XA/.github)<br>
 5. ⬆️ Pushed 1 commit(s) to [Hackathon-5XA/.github](https://github.com/Hackathon-5XA/.github)<br>
