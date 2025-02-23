@@ -3,11 +3,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Team-5XA/cold-recog](https://github.com/Team-5XA/cold-recog)<br>
-2. 💪 Opened PR [#3](https://github.com/Aak54321/cr-frontend/pull/3) in [Aak54321/cr-frontend](https://github.com/Aak54321/cr-frontend)<br>
-3. ⬆️ Pushed 3 commit(s) to [Aksshay88/cr-frontend](https://github.com/Aksshay88/cr-frontend)<br>
-4. ⬆️ Pushed 1 commit(s) to [Aksshay88/cr-frontend](https://github.com/Aksshay88/cr-frontend)<br>
-5. ⬆️ Pushed 1 commit(s) to [Team-5XA/cold-recog](https://github.com/Team-5XA/cold-recog)<br>
+1. ⬆️ Pushed 2 commit(s) to [Aksshay88/cr-frontend](https://github.com/Aksshay88/cr-frontend)<br>
+2. ⬆️ Pushed 1 commit(s) to [Aksshay88/cr-frontend](https://github.com/Aksshay88/cr-frontend)<br>
+3. ⬆️ Pushed 1 commit(s) to [Aksshay88/cr-frontend](https://github.com/Aksshay88/cr-frontend)<br>
+4. ⭐ Starred [Team-5XA/cold-recog](https://github.com/Team-5XA/cold-recog)<br>
+5. 💪 Opened PR [#3](https://github.com/Aak54321/cr-frontend/pull/3) in [Aak54321/cr-frontend](https://github.com/Aak54321/cr-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
