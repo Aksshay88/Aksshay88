@@ -3,11 +3,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Team-5XA/cold-recog](https://github.com/Team-5XA/cold-recog)<br>
-2. ⬆️ Pushed 2 commit(s) to [Aksshay88/cr-frontend](https://github.com/Aksshay88/cr-frontend)<br>
-3. ⬆️ Pushed 1 commit(s) to [Aksshay88/cr-frontend](https://github.com/Aksshay88/cr-frontend)<br>
-4. ⬆️ Pushed 1 commit(s) to [Aksshay88/cr-frontend](https://github.com/Aksshay88/cr-frontend)<br>
-5. ⭐ Starred [Team-5XA/cold-recog](https://github.com/Team-5XA/cold-recog)<br>
+1. ⬆️ Pushed 3 commit(s) to [Team-5XA/cold-recog](https://github.com/Team-5XA/cold-recog)<br>
+2. 🎉 Merged PR [#2](https://github.com/Team-5XA/cold-recog/pull/2) in [Team-5XA/cold-recog](https://github.com/Team-5XA/cold-recog)<br>
+3. 💪 Opened PR [#2](https://github.com/Team-5XA/cold-recog/pull/2) in [Team-5XA/cold-recog](https://github.com/Team-5XA/cold-recog)<br>
+4. ⬆️ Pushed 2 commit(s) to [Aksshay88/cold-recogV1](https://github.com/Aksshay88/cold-recogV1)<br>
+5. ⬆️ Pushed 1 commit(s) to [Aksshay88/cold-recogV1](https://github.com/Aksshay88/cold-recogV1)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
