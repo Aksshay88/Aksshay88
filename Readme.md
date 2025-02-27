@@ -3,11 +3,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [Team-5XA/cold-recog](https://github.com/Team-5XA/cold-recog)<br>
-2. 🎉 Merged PR [#2](https://github.com/Team-5XA/cold-recog/pull/2) in [Team-5XA/cold-recog](https://github.com/Team-5XA/cold-recog)<br>
-3. 💪 Opened PR [#2](https://github.com/Team-5XA/cold-recog/pull/2) in [Team-5XA/cold-recog](https://github.com/Team-5XA/cold-recog)<br>
-4. ⬆️ Pushed 2 commit(s) to [Aksshay88/cold-recogV1](https://github.com/Aksshay88/cold-recogV1)<br>
-5. ⬆️ Pushed 1 commit(s) to [Aksshay88/cold-recogV1](https://github.com/Aksshay88/cold-recogV1)<br>
+1. 💬 Commented on [#1](https://github.com/Aksshay88/CIT-Management-System/issues/1#issuecomment-2684187869) in [Aksshay88/CIT-Management-System](https://github.com/Aksshay88/CIT-Management-System)<br>
+2. ⬆️ Pushed 3 commit(s) to [Team-5XA/cold-recog](https://github.com/Team-5XA/cold-recog)<br>
+3. 🎉 Merged PR [#2](https://github.com/Team-5XA/cold-recog/pull/2) in [Team-5XA/cold-recog](https://github.com/Team-5XA/cold-recog)<br>
+4. 💪 Opened PR [#2](https://github.com/Team-5XA/cold-recog/pull/2) in [Team-5XA/cold-recog](https://github.com/Team-5XA/cold-recog)<br>
+5. ⬆️ Pushed 2 commit(s) to [Aksshay88/cold-recogV1](https://github.com/Aksshay88/cold-recogV1)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
