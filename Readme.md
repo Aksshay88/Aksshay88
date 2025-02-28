@@ -3,11 +3,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1](https://github.com/Aksshay88/CIT-Management-System/issues/1#issuecomment-2684187869) in [Aksshay88/CIT-Management-System](https://github.com/Aksshay88/CIT-Management-System)<br>
-2. ⬆️ Pushed 3 commit(s) to [Team-5XA/cold-recog](https://github.com/Team-5XA/cold-recog)<br>
-3. 🎉 Merged PR [#2](https://github.com/Team-5XA/cold-recog/pull/2) in [Team-5XA/cold-recog](https://github.com/Team-5XA/cold-recog)<br>
-4. 💪 Opened PR [#2](https://github.com/Team-5XA/cold-recog/pull/2) in [Team-5XA/cold-recog](https://github.com/Team-5XA/cold-recog)<br>
-5. ⬆️ Pushed 2 commit(s) to [Aksshay88/cold-recogV1](https://github.com/Aksshay88/cold-recogV1)<br>
+1. ⬆️ Pushed 1 commit(s) to [Aksshay88/website](https://github.com/Aksshay88/website)<br>
+2. 💪 Opened PR [#3749](https://github.com/asyncapi/website/pull/3749) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. ⬆️ Pushed 1 commit(s) to [Aksshay88/website](https://github.com/Aksshay88/website)<br>
+4. ❗️ Opened issue [#3748](https://github.com/asyncapi/website/issues/3748) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. 💬 Commented on [#1](https://github.com/Aksshay88/CIT-Management-System/issues/1#issuecomment-2684187869) in [Aksshay88/CIT-Management-System](https://github.com/Aksshay88/CIT-Management-System)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
