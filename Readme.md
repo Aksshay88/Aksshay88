@@ -3,8 +3,8 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Aksshay88/website](https://github.com/Aksshay88/website)<br>
-2. 💬 Commented on [#3749](https://github.com/asyncapi/website/pull/3749#issuecomment-2688015155) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ⬆️ Pushed 2 commit(s) to [Aksshay88/website](https://github.com/Aksshay88/website)<br>
+2. 💬 Commented on [#3749](https://github.com/asyncapi/website/pull/3749#issuecomment-2689813106) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 3. ⬆️ Pushed 1 commit(s) to [Aksshay88/website](https://github.com/Aksshay88/website)<br>
 4. ⬆️ Pushed 1 commit(s) to [Aksshay88/website](https://github.com/Aksshay88/website)<br>
 5. ⬆️ Pushed 1 commit(s) to [Aksshay88/website](https://github.com/Aksshay88/website)<br>
