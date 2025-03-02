@@ -3,11 +3,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Aksshay88/conference-website](https://github.com/Aksshay88/conference-website)<br>
-2. 💬 Commented on [#551](https://github.com/asyncapi/conference-website/issues/551#issuecomment-2690597682) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-3. 💬 Commented on [#3749](https://github.com/asyncapi/website/pull/3749#issuecomment-2690522612) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. 💬 Commented on [#3749](https://github.com/asyncapi/website/pull/3749#issuecomment-2690492869) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. ⬆️ Pushed 2 commit(s) to [Aksshay88/website](https://github.com/Aksshay88/website)<br>
+1. 💬 Commented on [#568](https://github.com/asyncapi/conference-website/pull/568#issuecomment-2692182404) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+2. 💪 Opened PR [#568](https://github.com/asyncapi/conference-website/pull/568) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+3. ⬆️ Pushed 1 commit(s) to [Aksshay88/conference-website](https://github.com/Aksshay88/conference-website)<br>
+4. ❗️ Opened issue [#567](https://github.com/asyncapi/conference-website/issues/567) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+5. ⭐ Starred [Aksshay88/conference-website](https://github.com/Aksshay88/conference-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
