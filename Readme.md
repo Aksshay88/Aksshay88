@@ -3,11 +3,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#3749](https://github.com/asyncapi/website/pull/3749#issuecomment-2693011980) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. 💬 Commented on [#3669](https://github.com/asyncapi/website/issues/3669#issuecomment-2692759958) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. 💪 Opened PR [#5738](https://github.com/stdlib-js/stdlib/pull/5738) in [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)<br>
-4. ⬆️ Pushed 5 commit(s) to [Aksshay88/stdlib](https://github.com/Aksshay88/stdlib)<br>
-5. ⬆️ Pushed 1 commit(s) to [Aksshay88/stdlib](https://github.com/Aksshay88/stdlib)<br>
+1. 💬 Commented on [#1762](https://github.com/asyncapi/community/issues/1762#issuecomment-2698152681) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+2. ⭐ Starred [winapps-org/winapps](https://github.com/winapps-org/winapps)<br>
+3. 💬 Commented on [#3749](https://github.com/asyncapi/website/pull/3749#issuecomment-2693011980) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. 💬 Commented on [#3669](https://github.com/asyncapi/website/issues/3669#issuecomment-2692759958) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+5. 💪 Opened PR [#5738](https://github.com/stdlib-js/stdlib/pull/5738) in [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
