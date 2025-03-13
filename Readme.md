@@ -3,11 +3,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [Aksshay88/conference-website](https://github.com/Aksshay88/conference-website)<br>
-2. 💬 Commented on [#1762](https://github.com/asyncapi/community/issues/1762#issuecomment-2698152681) in [asyncapi/community](https://github.com/asyncapi/community)<br>
-3. ⭐ Starred [winapps-org/winapps](https://github.com/winapps-org/winapps)<br>
-4. 💬 Commented on [#3749](https://github.com/asyncapi/website/pull/3749#issuecomment-2693011980) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-5. 💬 Commented on [#3669](https://github.com/asyncapi/website/issues/3669#issuecomment-2692759958) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+1. ⭐ Starred [Jeevan-kumar-Raj/Grokking-System-Design](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design)<br>
+2. ⬆️ Pushed 5 commit(s) to [Aksshay88/conference-website](https://github.com/Aksshay88/conference-website)<br>
+3. 💬 Commented on [#1762](https://github.com/asyncapi/community/issues/1762#issuecomment-2698152681) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+4. ⭐ Starred [winapps-org/winapps](https://github.com/winapps-org/winapps)<br>
+5. 💬 Commented on [#3749](https://github.com/asyncapi/website/pull/3749#issuecomment-2693011980) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
