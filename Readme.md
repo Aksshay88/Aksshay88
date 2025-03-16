@@ -3,11 +3,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)<br>
-2. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
-3. ⭐ Starred [Jeevan-kumar-Raj/Grokking-System-Design](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design)<br>
-4. ⬆️ Pushed 5 commit(s) to [Aksshay88/conference-website](https://github.com/Aksshay88/conference-website)<br>
-5. 💬 Commented on [#1762](https://github.com/asyncapi/community/issues/1762#issuecomment-2698152681) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+1. ⭐ Starred [httpie/cli](https://github.com/httpie/cli)<br>
+2. ⭐ Starred [curl/curl](https://github.com/curl/curl)<br>
+3. ⬆️ Pushed 1 commit(s) to [Aksshay88/conference-website](https://github.com/Aksshay88/conference-website)<br>
+4. ⭐ Starred [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)<br>
+5. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
