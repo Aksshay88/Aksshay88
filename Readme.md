@@ -3,11 +3,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#636](https://github.com/asyncapi/conference-website/issues/636#issuecomment-2745996355) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-2. 💬 Commented on [#635](https://github.com/asyncapi/conference-website/issues/635#issuecomment-2733125165) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-3. ❌ Closed PR [#637](https://github.com/asyncapi/conference-website/pull/637) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-4. 💬 Commented on [#637](https://github.com/asyncapi/conference-website/pull/637#issuecomment-2727496857) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-5. 💬 Commented on [#637](https://github.com/asyncapi/conference-website/pull/637#issuecomment-2727482177) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+1. 💬 Commented on [#654](https://github.com/asyncapi/conference-website/pull/654#issuecomment-2747953424) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+2. 💪 Opened PR [#654](https://github.com/asyncapi/conference-website/pull/654) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+3. ⬆️ Pushed 1 commit(s) to [Aksshay88/conference-website](https://github.com/Aksshay88/conference-website)<br>
+4. ⬆️ Pushed 6 commit(s) to [Aksshay88/conference-website](https://github.com/Aksshay88/conference-website)<br>
+5. 💬 Commented on [#635](https://github.com/asyncapi/conference-website/issues/635#issuecomment-2747716893) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
