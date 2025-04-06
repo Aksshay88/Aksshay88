@@ -3,11 +3,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#698](https://github.com/asyncapi/conference-website/pull/698#issuecomment-2778835526) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-2. ⬆️ Pushed 1 commit(s) to [Aksshay88/conference-website](https://github.com/Aksshay88/conference-website)<br>
-3. 💬 Commented on [#698](https://github.com/asyncapi/conference-website/pull/698#issuecomment-2778582299) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-4. ⭐ Starred [trpc/trpc](https://github.com/trpc/trpc)<br>
-5. 💬 Commented on [#644](https://github.com/asyncapi/conference-website/issues/644#issuecomment-2777522710) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+1. ⬆️ Pushed 1 commit(s) to [Aksshay88/conference-website](https://github.com/Aksshay88/conference-website)<br>
+2. 💬 Commented on [#698](https://github.com/asyncapi/conference-website/pull/698#issuecomment-2780255398) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+3. 💬 Commented on [#698](https://github.com/asyncapi/conference-website/pull/698#issuecomment-2780236228) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+4. 💬 Commented on [#698](https://github.com/asyncapi/conference-website/pull/698#issuecomment-2779965349) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+5. 💬 Commented on [#698](https://github.com/asyncapi/conference-website/pull/698#issuecomment-2778835526) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
