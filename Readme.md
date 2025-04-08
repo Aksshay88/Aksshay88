@@ -3,11 +3,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development)<br>
-2. ⭐ Starred [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)<br>
-3. 💬 Commented on [#677](https://github.com/permitio/opal/issues/677#issuecomment-2781502126) in [permitio/opal](https://github.com/permitio/opal)<br>
-4. ⭐ Starred [torvalds/linux](https://github.com/torvalds/linux)<br>
-5. ⬆️ Pushed 1 commit(s) to [Aksshay88/conference-website](https://github.com/Aksshay88/conference-website)<br>
+1. 💬 Commented on [#698](https://github.com/asyncapi/conference-website/pull/698#issuecomment-2783121797) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+2. ⭐ Starred [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development)<br>
+3. ⭐ Starred [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)<br>
+4. 💬 Commented on [#677](https://github.com/permitio/opal/issues/677#issuecomment-2781502126) in [permitio/opal](https://github.com/permitio/opal)<br>
+5. ⭐ Starred [torvalds/linux](https://github.com/torvalds/linux)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
