@@ -3,11 +3,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1306](https://github.com/asyncapi/community/issues/1306#issuecomment-2786866165) in [asyncapi/community](https://github.com/asyncapi/community)<br>
-2. 💬 Commented on [#698](https://github.com/asyncapi/conference-website/pull/698#issuecomment-2783121797) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-3. ⭐ Starred [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development)<br>
-4. ⭐ Starred [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)<br>
-5. 💬 Commented on [#677](https://github.com/permitio/opal/issues/677#issuecomment-2781502126) in [permitio/opal](https://github.com/permitio/opal)<br>
+1. ⭐ Starred [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)<br>
+2. ⭐ Starred [Beastwick18/nyaa](https://github.com/Beastwick18/nyaa)<br>
+3. 💬 Commented on [#1306](https://github.com/asyncapi/community/issues/1306#issuecomment-2786866165) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+4. 💬 Commented on [#698](https://github.com/asyncapi/conference-website/pull/698#issuecomment-2783121797) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+5. ⭐ Starred [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
