@@ -3,11 +3,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TrueMyst/BeatPrints](https://github.com/TrueMyst/BeatPrints)<br>
-2. ⭐ Starred [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)<br>
-3. ⭐ Starred [Beastwick18/nyaa](https://github.com/Beastwick18/nyaa)<br>
-4. 💬 Commented on [#1306](https://github.com/asyncapi/community/issues/1306#issuecomment-2786866165) in [asyncapi/community](https://github.com/asyncapi/community)<br>
-5. 💬 Commented on [#698](https://github.com/asyncapi/conference-website/pull/698#issuecomment-2783121797) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+1. 💬 Commented on [#1844](https://github.com/asyncapi/community/issues/1844#issuecomment-2805064763) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+2. ⭐ Starred [TrueMyst/BeatPrints](https://github.com/TrueMyst/BeatPrints)<br>
+3. ⭐ Starred [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)<br>
+4. ⭐ Starred [Beastwick18/nyaa](https://github.com/Beastwick18/nyaa)<br>
+5. 💬 Commented on [#1306](https://github.com/asyncapi/community/issues/1306#issuecomment-2786866165) in [asyncapi/community](https://github.com/asyncapi/community)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
