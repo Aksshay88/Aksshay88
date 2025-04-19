@@ -3,11 +3,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts)<br>
-2. 💬 Commented on [#644](https://github.com/asyncapi/conference-website/issues/644#issuecomment-2815073811) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
-3. 💬 Commented on [#1844](https://github.com/asyncapi/community/issues/1844#issuecomment-2805064763) in [asyncapi/community](https://github.com/asyncapi/community)<br>
-4. ⭐ Starred [TrueMyst/BeatPrints](https://github.com/TrueMyst/BeatPrints)<br>
-5. ⭐ Starred [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)<br>
+1. ⭐ Starred [klinecharts/KLineChart](https://github.com/klinecharts/KLineChart)<br>
+2. ⭐ Starred [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts)<br>
+3. 💬 Commented on [#644](https://github.com/asyncapi/conference-website/issues/644#issuecomment-2815073811) in [asyncapi/conference-website](https://github.com/asyncapi/conference-website)<br>
+4. 💬 Commented on [#1844](https://github.com/asyncapi/community/issues/1844#issuecomment-2805064763) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+5. ⭐ Starred [TrueMyst/BeatPrints](https://github.com/TrueMyst/BeatPrints)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
