@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksshay88&label=Profile%20views&color=0e75b6&style=flat" alt="aksshay88" /> </p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1046078906664505405)](https://discord.com/users/1046078906664505405)
+
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
