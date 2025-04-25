@@ -62,10 +62,11 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [Weathering With You](https://anilist.co/anime/106286) (09:14 25 April 2025)
--   📺 Completed [Your Name.](https://anilist.co/anime/21519) (09:13 25 April 2025)
--   📺 Completed [Your lie in April](https://anilist.co/anime/20665) (09:12 25 April 2025)
--   📺 Completed [Attack on Titan](https://anilist.co/anime/16498) (09:02 25 April 2025)
+-   📺 Completed [Attack on Titan Final Season Part 2](https://anilist.co/anime/131681) (09:29 25 April 2025)
+-   📺 Completed [Attack on Titan ~Chronicle~](https://anilist.co/anime/119113) (09:29 25 April 2025)
+-   📺 Completed [Attack on Titan Season 3](https://anilist.co/anime/99147) (09:29 25 April 2025)
+-   📺 Completed [Attack on Titan Season 2](https://anilist.co/anime/20958) (09:29 25 April 2025)
+-   📺 Completed [Attack on Titan OVA](https://anilist.co/anime/18397) (09:29 25 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
