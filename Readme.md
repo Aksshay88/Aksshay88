@@ -62,6 +62,8 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Attack on Titan](https://anilist.co/anime/16498) (09:02 25 April 2025)
+
 <!-- ANILIST_ACTIVITY:end -->
 
 
