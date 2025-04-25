@@ -58,6 +58,12 @@ Shell                    2 repos             █░░░░░░░░░░�
  Last Updated on 24/04/2025 18:53:17 UTC
 <!--END_SECTION:waka-->
 
+# 🌸 My recent AniList activity
+
+<!-- ANILIST_ACTIVITY:start -->
+
+<!-- ANILIST_ACTIVITY:end -->
+
 
 </p>
 
