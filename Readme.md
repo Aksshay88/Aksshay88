@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#4077](https://github.com/asyncapi/website/issues/4077#issuecomment-2844401629) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. 💬 Commented on [#4077](https://github.com/asyncapi/website/issues/4077#issuecomment-2839245616) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-3. 💬 Commented on [#1870](https://github.com/asyncapi/community/issues/1870#issuecomment-2835725032) in [asyncapi/community](https://github.com/asyncapi/community)<br>
-4. ⭐ Starred [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)<br>
-5. 💬 Commented on [#1870](https://github.com/asyncapi/community/issues/1870#issuecomment-2835389499) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+1. 💬 Commented on [#1867](https://github.com/asyncapi/community/issues/1867#issuecomment-2849139776) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+2. 💬 Commented on [#4077](https://github.com/asyncapi/website/issues/4077#issuecomment-2844401629) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+3. 💬 Commented on [#4077](https://github.com/asyncapi/website/issues/4077#issuecomment-2839245616) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. 💬 Commented on [#1870](https://github.com/asyncapi/community/issues/1870#issuecomment-2835725032) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+5. ⭐ Starred [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
