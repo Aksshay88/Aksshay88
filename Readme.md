@@ -24,7 +24,7 @@
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%201%20min-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -48,14 +48,14 @@ Neovim                   8 hrs 59 mins       ███████████�
 JavaScript               18 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
 TypeScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
 Java                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
 Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 
 
 
- Last Updated on 06/05/2025 18:52:43 UTC
+ Last Updated on 07/05/2025 18:54:22 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
