@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#4077](https://github.com/asyncapi/website/issues/4077#issuecomment-2854664216) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-2. ⭐ Starred [hcengineering/platform](https://github.com/hcengineering/platform)<br>
-3. ⭐ Starred [mintlify/writer](https://github.com/mintlify/writer)<br>
-4. ⭐ Starred [commitizen/cz-cli](https://github.com/commitizen/cz-cli)<br>
-5. 💬 Commented on [#1867](https://github.com/asyncapi/community/issues/1867#issuecomment-2849139776) in [asyncapi/community](https://github.com/asyncapi/community)<br>
+1. ⭐ Starred [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning)<br>
+2. ⬆️ Pushed 1 commit(s) to [Aksshay88/rust-up](https://github.com/Aksshay88/rust-up)<br>
+3. 💬 Commented on [#4077](https://github.com/asyncapi/website/issues/4077#issuecomment-2854664216) in [asyncapi/website](https://github.com/asyncapi/website)<br>
+4. ⭐ Starred [hcengineering/platform](https://github.com/hcengineering/platform)<br>
+5. ⭐ Starred [mintlify/writer](https://github.com/mintlify/writer)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
