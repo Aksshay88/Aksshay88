@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning)<br>
-2. ⬆️ Pushed 1 commit(s) to [Aksshay88/rust-up](https://github.com/Aksshay88/rust-up)<br>
-3. 💬 Commented on [#4077](https://github.com/asyncapi/website/issues/4077#issuecomment-2854664216) in [asyncapi/website](https://github.com/asyncapi/website)<br>
-4. ⭐ Starred [hcengineering/platform](https://github.com/hcengineering/platform)<br>
-5. ⭐ Starred [mintlify/writer](https://github.com/mintlify/writer)<br>
+1. ⭐ Starred [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)<br>
+2. ⭐ Starred [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)<br>
+3. ⭐ Starred [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning)<br>
+4. ⬆️ Pushed 1 commit(s) to [Aksshay88/rust-up](https://github.com/Aksshay88/rust-up)<br>
+5. 💬 Commented on [#4077](https://github.com/asyncapi/website/issues/4077#issuecomment-2854664216) in [asyncapi/website](https://github.com/asyncapi/website)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
