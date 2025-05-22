@@ -22,7 +22,25 @@
  ---
  
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2018%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               3 hrs 10 mins       ██████████████████░░░░░░░   73.30 % 
+TypeScript               31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+PlantUML                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Java                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+
+🔥 Editors: 
+Neovim                   4 hrs 20 mins       █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -37,7 +55,7 @@ Lua                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2025 18:55:22 UTC
+ Last Updated on 22/05/2025 18:55:10 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
