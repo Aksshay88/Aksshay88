@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [google/mozc](https://github.com/google/mozc)<br>
-2. ⬆️ Pushed 1 commit(s) to [Aksshay88/nvim](https://github.com/Aksshay88/nvim)<br>
-3. ⭐ Starred [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)<br>
-4. ⭐ Starred [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)<br>
-5. ⭐ Starred [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning)<br>
+1. ⭐ Starred [dharmx/walls](https://github.com/dharmx/walls)<br>
+2. ⭐ Starred [google/mozc](https://github.com/google/mozc)<br>
+3. ⬆️ Pushed 1 commit(s) to [Aksshay88/nvim](https://github.com/Aksshay88/nvim)<br>
+4. ⭐ Starred [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)<br>
+5. ⭐ Starred [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
