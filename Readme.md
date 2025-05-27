@@ -32,12 +32,10 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 58 mins        ████████████████████████░   96.07 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   2 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -53,7 +51,7 @@ Lua                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2025 18:52:41 UTC
+ Last Updated on 27/05/2025 18:55:09 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
