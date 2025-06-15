@@ -22,7 +22,7 @@
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2018%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -39,17 +39,17 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-JavaScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+TypeScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
 
 
- Last Updated on 14/06/2025 18:51:47 UTC
+ Last Updated on 15/06/2025 18:50:59 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
