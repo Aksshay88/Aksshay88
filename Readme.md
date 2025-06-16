@@ -7,7 +7,6 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [dharmx/walls](https://github.com/dharmx/walls)<br>
 2. ⭐ Starred [google/mozc](https://github.com/google/mozc)<br>
-3. ⬆️ Pushed 1 commit(s) to [Aksshay88/nvim](https://github.com/Aksshay88/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
