@@ -6,7 +6,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [dharmx/walls](https://github.com/dharmx/walls)<br>
-2. ⭐ Starred [google/mozc](https://github.com/google/mozc)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
