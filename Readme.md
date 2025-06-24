@@ -5,7 +5,6 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dharmx/walls](https://github.com/dharmx/walls)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
