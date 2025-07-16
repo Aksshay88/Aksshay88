@@ -28,12 +28,10 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     5 mins              ████████████░░░░░░░░░░░░░   48.17 % 
-Rust                     4 mins              ██████████░░░░░░░░░░░░░░░   41.15 % 
-Lua                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -49,7 +47,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2025 18:57:25 UTC
+ Last Updated on 16/07/2025 18:57:22 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
