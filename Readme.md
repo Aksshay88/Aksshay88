@@ -5,7 +5,8 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AbijithBalaji/Ogresync](https://github.com/AbijithBalaji/Ogresync)<br>
+1. ⭐ Starred [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign)<br>
+2. ⭐ Starred [AbijithBalaji/Ogresync](https://github.com/AbijithBalaji/Ogresync)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
