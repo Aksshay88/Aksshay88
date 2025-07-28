@@ -6,10 +6,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [isshoninihongocit/hnm-vol2](https://github.com/isshoninihongocit/hnm-vol2)<br>
-2. ❌ Closed PR [#3](https://github.com/isshoninihongocit/hnm-vol2/pull/3) in [isshoninihongocit/hnm-vol2](https://github.com/isshoninihongocit/hnm-vol2)<br>
-3. ⬆️ Pushed 2 commit(s) to [isshoninihongocit/hnm-vol2](https://github.com/isshoninihongocit/hnm-vol2)<br>
-4. 🎉 Merged PR [#2](https://github.com/isshoninihongocit/hnm-vol2/pull/2) in [isshoninihongocit/hnm-vol2](https://github.com/isshoninihongocit/hnm-vol2)<br>
-5. ⬆️ Pushed 1 commit(s) to [isshoninihongocit/.github](https://github.com/isshoninihongocit/.github)<br>
+2. ⬆️ Pushed 1 commit(s) to [isshoninihongocit/hnm-vol2](https://github.com/isshoninihongocit/hnm-vol2)<br>
+3. ⬆️ Pushed 1 commit(s) to [isshoninihongocit/hnm-vol2](https://github.com/isshoninihongocit/hnm-vol2)<br>
+4. ⬆️ Pushed 3 commit(s) to [isshoninihongocit/hnm-vol2](https://github.com/isshoninihongocit/hnm-vol2)<br>
+5. 🎉 Merged PR [#4](https://github.com/isshoninihongocit/hnm-vol2/pull/4) in [isshoninihongocit/hnm-vol2](https://github.com/isshoninihongocit/hnm-vol2)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
