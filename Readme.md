@@ -5,10 +5,10 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [isshoninihongocit/hnm-vol2](https://github.com/isshoninihongocit/hnm-vol2)<br>
+1. ⬆️ Pushed 1 commit(s) to [isshoninihongocit/hnm-vol2](https://github.com/isshoninihongocit/hnm-vol2)<br>
 2. 🤝 Became collaborator on [isshoninihongocit/hnm-vol2](https://github.com/isshoninihongocit/hnm-vol2)<br>
-3. ⭐ Starred [remix-run/remix](https://github.com/remix-run/remix)<br>
-4. ⬆️ Pushed 1 commit(s) to [isshoninihongocit/hnm-vol2](https://github.com/isshoninihongocit/hnm-vol2)<br>
+3. 🤝 Became collaborator on [isshoninihongocit/hnm-vol2](https://github.com/isshoninihongocit/hnm-vol2)<br>
+4. ⭐ Starred [remix-run/remix](https://github.com/remix-run/remix)<br>
 5. ⬆️ Pushed 1 commit(s) to [isshoninihongocit/hnm-vol2](https://github.com/isshoninihongocit/hnm-vol2)<br>
 <!--RECENT_ACTIVITY:end-->
 
