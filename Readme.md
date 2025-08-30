@@ -22,23 +22,7 @@
  ---
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2021%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Rust                     45 mins             ███████████████████░░░░░░   75.78 % 
-Other                    12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-
-🔥 Editors: 
-Neovim                   59 mins             █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in TypeScript** 
 
@@ -53,7 +37,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2025 18:49:14 UTC
+ Last Updated on 30/08/2025 18:47:27 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
