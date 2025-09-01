@@ -5,10 +5,10 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [modelence/modelence](https://github.com/modelence/modelence)<br>
-2. ⬆️ Pushed 1 commit(s) to [Aksshay88/rust-up](https://github.com/Aksshay88/rust-up)<br>
+1. ⭐ Starred [Grind1503/Torrent-Downloader](https://github.com/Grind1503/Torrent-Downloader)<br>
+2. ⭐ Starred [modelence/modelence](https://github.com/modelence/modelence)<br>
 3. ⬆️ Pushed 1 commit(s) to [Aksshay88/rust-up](https://github.com/Aksshay88/rust-up)<br>
-4. ⬆️ Pushed 1 commit(s) to [isshoninihongocit/hnm-vol2](https://github.com/isshoninihongocit/hnm-vol2)<br>
+4. ⬆️ Pushed 1 commit(s) to [Aksshay88/rust-up](https://github.com/Aksshay88/rust-up)<br>
 5. ⬆️ Pushed 1 commit(s) to [isshoninihongocit/hnm-vol2](https://github.com/isshoninihongocit/hnm-vol2)<br>
 <!--RECENT_ACTIVITY:end-->
 
