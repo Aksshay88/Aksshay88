@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Ren-Gen22/procSentinel](https://github.com/Ren-Gen22/procSentinel)<br>
-2. ⭐ Starred [Grind1503/Torrent-Downloader](https://github.com/Grind1503/Torrent-Downloader)<br>
-3. ⭐ Starred [modelence/modelence](https://github.com/modelence/modelence)<br>
-4. ⬆️ Pushed 1 commit(s) to [Aksshay88/rust-up](https://github.com/Aksshay88/rust-up)<br>
-5. ⬆️ Pushed 1 commit(s) to [Aksshay88/rust-up](https://github.com/Aksshay88/rust-up)<br>
+1. ⬆️ Pushed 1 commit(s) to [isshoninihongocit/isshoni_nihongo_app](https://github.com/isshoninihongocit/isshoni_nihongo_app)<br>
+2. ⬆️ Pushed 2 commit(s) to [isshoninihongocit/isshoni_nihongo_app](https://github.com/isshoninihongocit/isshoni_nihongo_app)<br>
+3. ⭐ Starred [Ren-Gen22/procSentinel](https://github.com/Ren-Gen22/procSentinel)<br>
+4. ⭐ Starred [Grind1503/Torrent-Downloader](https://github.com/Grind1503/Torrent-Downloader)<br>
+5. ⭐ Starred [modelence/modelence](https://github.com/modelence/modelence)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
