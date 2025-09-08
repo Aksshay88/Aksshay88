@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [isshoninihongocit/isshoni_nihongo_app](https://github.com/isshoninihongocit/isshoni_nihongo_app)<br>
-2. ⬆️ Pushed 2 commit(s) to [isshoninihongocit/isshoni_nihongo_app](https://github.com/isshoninihongocit/isshoni_nihongo_app)<br>
-3. ⭐ Starred [Ren-Gen22/procSentinel](https://github.com/Ren-Gen22/procSentinel)<br>
-4. ⭐ Starred [Grind1503/Torrent-Downloader](https://github.com/Grind1503/Torrent-Downloader)<br>
-5. ⭐ Starred [modelence/modelence](https://github.com/modelence/modelence)<br>
+1. ⭐ Starred [Consensys/ethereum-developer-tools-list](https://github.com/Consensys/ethereum-developer-tools-list)<br>
+2. ⬆️ Pushed 1 commit(s) to [isshoninihongocit/isshoni_nihongo_app](https://github.com/isshoninihongocit/isshoni_nihongo_app)<br>
+3. ⬆️ Pushed 2 commit(s) to [isshoninihongocit/isshoni_nihongo_app](https://github.com/isshoninihongocit/isshoni_nihongo_app)<br>
+4. ⭐ Starred [Ren-Gen22/procSentinel](https://github.com/Ren-Gen22/procSentinel)<br>
+5. ⭐ Starred [Grind1503/Torrent-Downloader](https://github.com/Grind1503/Torrent-Downloader)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
