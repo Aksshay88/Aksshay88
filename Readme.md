@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
-2. ⭐ Starred [Consensys/ethereum-developer-tools-list](https://github.com/Consensys/ethereum-developer-tools-list)<br>
-3. ⬆️ Pushed 1 commit(s) to [isshoninihongocit/isshoni_nihongo_app](https://github.com/isshoninihongocit/isshoni_nihongo_app)<br>
-4. ⬆️ Pushed 2 commit(s) to [isshoninihongocit/isshoni_nihongo_app](https://github.com/isshoninihongocit/isshoni_nihongo_app)<br>
-5. ⭐ Starred [Ren-Gen22/procSentinel](https://github.com/Ren-Gen22/procSentinel)<br>
+1. ⭐ Starred [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps)<br>
+2. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
+3. ⭐ Starred [Consensys/ethereum-developer-tools-list](https://github.com/Consensys/ethereum-developer-tools-list)<br>
+4. ⬆️ Pushed 1 commit(s) to [isshoninihongocit/isshoni_nihongo_app](https://github.com/isshoninihongocit/isshoni_nihongo_app)<br>
+5. ⬆️ Pushed 2 commit(s) to [isshoninihongocit/isshoni_nihongo_app](https://github.com/isshoninihongocit/isshoni_nihongo_app)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
