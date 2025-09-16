@@ -18,7 +18,8 @@
  <a href="https://monkeytype.com/profile/Aksshay88">
    <img src="https://raw.githubusercontent.com/Aksshay88/Aksshay88/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
  </a>
- 
+ <img src="https://i.ibb.co/4wRhtJWj/swappy-20250916-164918.png" alt="Preview" width="1000"/>
+
  ---
  
  <!--START_SECTION:waka-->
