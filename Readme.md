@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Aksshay88/Aksshay88.github.io](https://github.com/Aksshay88/Aksshay88.github.io)<br>
-2. ⭐ Starred [emilk/egui](https://github.com/emilk/egui)<br>
-3. ⭐ Starred [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio)<br>
-4. ⭐ Starred [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android)<br>
-5. ⭐ Starred [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps)<br>
+1. ⭐ Starred [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)<br>
+2. ⬆️ Pushed 1 commit(s) to [Aksshay88/Aksshay88.github.io](https://github.com/Aksshay88/Aksshay88.github.io)<br>
+3. ⭐ Starred [emilk/egui](https://github.com/emilk/egui)<br>
+4. ⭐ Starred [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio)<br>
+5. ⭐ Starred [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
