@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)<br>
-2. ⭐ Starred [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)<br>
-3. ⬆️ Pushed 1 commit(s) to [Aksshay88/Aksshay88.github.io](https://github.com/Aksshay88/Aksshay88.github.io)<br>
-4. ⭐ Starred [emilk/egui](https://github.com/emilk/egui)<br>
-5. ⭐ Starred [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio)<br>
+1. ⭐ Starred [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)<br>
+2. ⭐ Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)<br>
+3. ⭐ Starred [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)<br>
+4. ⬆️ Pushed 1 commit(s) to [Aksshay88/Aksshay88.github.io](https://github.com/Aksshay88/Aksshay88.github.io)<br>
+5. ⭐ Starred [emilk/egui](https://github.com/emilk/egui)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
