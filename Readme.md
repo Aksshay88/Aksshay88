@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
-2. ⭐ Starred [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)<br>
-3. ⭐ Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)<br>
-4. ⭐ Starred [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)<br>
-5. ⬆️ Pushed 1 commit(s) to [Aksshay88/Aksshay88.github.io](https://github.com/Aksshay88/Aksshay88.github.io)<br>
+1. ⬆️ Pushed 1 commit(s) to [Aksshay88/Anamoly_Detection](https://github.com/Aksshay88/Anamoly_Detection)<br>
+2. ❌ Closed PR [#7721](https://github.com/fineanmol/Hacktoberfest2024/pull/7721) in [fineanmol/Hacktoberfest2024](https://github.com/fineanmol/Hacktoberfest2024)<br>
+3. ⬆️ Pushed 19 commit(s) to [Aksshay88/devb.io](https://github.com/Aksshay88/devb.io)<br>
+4. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
+5. ⭐ Starred [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
