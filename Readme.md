@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Aksshay88/Anamoly_Detection](https://github.com/Aksshay88/Anamoly_Detection)<br>
-2. ❌ Closed PR [#7721](https://github.com/fineanmol/Hacktoberfest2024/pull/7721) in [fineanmol/Hacktoberfest2024](https://github.com/fineanmol/Hacktoberfest2024)<br>
-3. ⬆️ Pushed 19 commit(s) to [Aksshay88/devb.io](https://github.com/Aksshay88/devb.io)<br>
-4. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
-5. ⭐ Starred [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)<br>
+1. ⭐ Starred [InsForge/InsForge](https://github.com/InsForge/InsForge)<br>
+2. ⬆️ Pushed 1 commit(s) to [Aksshay88/Anamoly_Detection](https://github.com/Aksshay88/Anamoly_Detection)<br>
+3. ❌ Closed PR [#7721](https://github.com/fineanmol/Hacktoberfest2024/pull/7721) in [fineanmol/Hacktoberfest2024](https://github.com/fineanmol/Hacktoberfest2024)<br>
+4. ⬆️ Pushed 19 commit(s) to [Aksshay88/devb.io](https://github.com/Aksshay88/devb.io)<br>
+5. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
