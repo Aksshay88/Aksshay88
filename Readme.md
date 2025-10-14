@@ -25,7 +25,7 @@
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%201%20min-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -44,17 +44,17 @@ Neovim                   10 mins             ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               15 repos            █████████░░░░░░░░░░░░░░░░   34.09 % 
-JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+TypeScript               16 repos            █████████░░░░░░░░░░░░░░░░   35.56 % 
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
 
 
- Last Updated on 13/10/2025 18:50:43 UTC
+ Last Updated on 14/10/2025 18:51:08 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
