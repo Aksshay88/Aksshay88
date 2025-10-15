@@ -5,10 +5,10 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [InsForge/InsForge](https://github.com/InsForge/InsForge)<br>
-2. ⬆️ Pushed 1 commit(s) to [Aksshay88/Anamoly_Detection](https://github.com/Aksshay88/Anamoly_Detection)<br>
-3. ❌ Closed PR [#7721](https://github.com/fineanmol/Hacktoberfest2024/pull/7721) in [fineanmol/Hacktoberfest2024](https://github.com/fineanmol/Hacktoberfest2024)<br>
-4. ⬆️ Pushed 19 commit(s) to [Aksshay88/devb.io](https://github.com/Aksshay88/devb.io)<br>
+1. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+2. ⭐ Starred [InsForge/InsForge](https://github.com/InsForge/InsForge)<br>
+3. ⬆️ Pushed undefined commit(s) to [Aksshay88/Anamoly_Detection](https://github.com/Aksshay88/Anamoly_Detection)<br>
+4. ⬆️ Pushed undefined commit(s) to [Aksshay88/devb.io](https://github.com/Aksshay88/devb.io)<br>
 5. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
 <!--RECENT_ACTIVITY:end-->
 
