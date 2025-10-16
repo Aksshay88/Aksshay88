@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-2. ⭐ Starred [InsForge/InsForge](https://github.com/InsForge/InsForge)<br>
-3. ⬆️ Pushed undefined commit(s) to [Aksshay88/Anamoly_Detection](https://github.com/Aksshay88/Anamoly_Detection)<br>
-4. ⬆️ Pushed undefined commit(s) to [Aksshay88/devb.io](https://github.com/Aksshay88/devb.io)<br>
-5. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
+1. ⭐ Starred [tracel-ai/burn](https://github.com/tracel-ai/burn)<br>
+2. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+3. ⭐ Starred [InsForge/InsForge](https://github.com/InsForge/InsForge)<br>
+4. ⬆️ Pushed undefined commit(s) to [Aksshay88/Anamoly_Detection](https://github.com/Aksshay88/Anamoly_Detection)<br>
+5. ⬆️ Pushed undefined commit(s) to [Aksshay88/devb.io](https://github.com/Aksshay88/devb.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
