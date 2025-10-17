@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tracel-ai/burn](https://github.com/tracel-ai/burn)<br>
-2. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-3. ⭐ Starred [InsForge/InsForge](https://github.com/InsForge/InsForge)<br>
-4. ⬆️ Pushed undefined commit(s) to [Aksshay88/Anamoly_Detection](https://github.com/Aksshay88/Anamoly_Detection)<br>
-5. ⬆️ Pushed undefined commit(s) to [Aksshay88/devb.io](https://github.com/Aksshay88/devb.io)<br>
+1. ⭐ Starred [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server)<br>
+2. ⭐ Starred [tracel-ai/burn](https://github.com/tracel-ai/burn)<br>
+3. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+4. ⭐ Starred [InsForge/InsForge](https://github.com/InsForge/InsForge)<br>
+5. ⬆️ Pushed undefined commit(s) to [Aksshay88/Anamoly_Detection](https://github.com/Aksshay88/Anamoly_Detection)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
