@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [neondatabase/neon](https://github.com/neondatabase/neon)<br>
-2. ⬆️ Pushed undefined commit(s) to [Aksshay88/Aksshay88.me](https://github.com/Aksshay88/Aksshay88.me)<br>
-3. ⭐ Starred [jlowin/fastmcp](https://github.com/jlowin/fastmcp)<br>
-4. ⬆️ Pushed undefined commit(s) to [Aksshay88/MCP](https://github.com/Aksshay88/MCP)<br>
-5. ⬆️ Pushed undefined commit(s) to [Aksshay88/FIFA_MCP_feed](https://github.com/Aksshay88/FIFA_MCP_feed)<br>
+1. ⬆️ Pushed undefined commit(s) to [Aksshay88/packer.ai](https://github.com/Aksshay88/packer.ai)<br>
+2. ⬆️ Pushed undefined commit(s) to [Aksshay88/vim.ai](https://github.com/Aksshay88/vim.ai)<br>
+3. ⬆️ Pushed undefined commit(s) to [Aksshay88/vim.ai](https://github.com/Aksshay88/vim.ai)<br>
+4. ⬆️ Pushed undefined commit(s) to [Aksshay88/packer.ai](https://github.com/Aksshay88/packer.ai)<br>
+5. ⬆️ Pushed undefined commit(s) to [Aksshay88/packer.ai](https://github.com/Aksshay88/packer.ai)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
