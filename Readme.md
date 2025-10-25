@@ -5,10 +5,10 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Aksshay88/packer.ai](https://github.com/Aksshay88/packer.ai)<br>
-2. ⬆️ Pushed undefined commit(s) to [Aksshay88/vim.ai](https://github.com/Aksshay88/vim.ai)<br>
-3. ⬆️ Pushed undefined commit(s) to [Aksshay88/vim.ai](https://github.com/Aksshay88/vim.ai)<br>
-4. ⬆️ Pushed undefined commit(s) to [Aksshay88/packer.ai](https://github.com/Aksshay88/packer.ai)<br>
+1. ⬆️ Pushed undefined commit(s) to [Sharan-Prashanth/SIH25180](https://github.com/Sharan-Prashanth/SIH25180)<br>
+2. ⬆️ Pushed undefined commit(s) to [Sharan-Prashanth/SIH25180](https://github.com/Sharan-Prashanth/SIH25180)<br>
+3. ⬆️ Pushed undefined commit(s) to [Sharan-Prashanth/SIH25180](https://github.com/Sharan-Prashanth/SIH25180)<br>
+4. ⭐ Starred [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)<br>
 5. ⬆️ Pushed undefined commit(s) to [Aksshay88/packer.ai](https://github.com/Aksshay88/packer.ai)<br>
 <!--RECENT_ACTIVITY:end-->
 
