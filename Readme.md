@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [devrev/mcp-server](https://github.com/devrev/mcp-server)<br>
-2. ⬆️ Pushed undefined commit(s) to [Sharan-Prashanth/SIH25180](https://github.com/Sharan-Prashanth/SIH25180)<br>
+1. ⭐ Starred [longbridge/gpui-component](https://github.com/longbridge/gpui-component)<br>
+2. ⭐ Starred [devrev/mcp-server](https://github.com/devrev/mcp-server)<br>
 3. ⬆️ Pushed undefined commit(s) to [Sharan-Prashanth/SIH25180](https://github.com/Sharan-Prashanth/SIH25180)<br>
 4. ⬆️ Pushed undefined commit(s) to [Sharan-Prashanth/SIH25180](https://github.com/Sharan-Prashanth/SIH25180)<br>
-5. ⭐ Starred [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)<br>
+5. ⬆️ Pushed undefined commit(s) to [Sharan-Prashanth/SIH25180](https://github.com/Sharan-Prashanth/SIH25180)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
