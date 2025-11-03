@@ -5,9 +5,9 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [longbridge/gpui-component](https://github.com/longbridge/gpui-component)<br>
-2. ⭐ Starred [devrev/mcp-server](https://github.com/devrev/mcp-server)<br>
-3. ⬆️ Pushed undefined commit(s) to [Sharan-Prashanth/SIH25180](https://github.com/Sharan-Prashanth/SIH25180)<br>
+1. ⭐ Starred [documenso/documenso](https://github.com/documenso/documenso)<br>
+2. ⭐ Starred [longbridge/gpui-component](https://github.com/longbridge/gpui-component)<br>
+3. ⭐ Starred [devrev/mcp-server](https://github.com/devrev/mcp-server)<br>
 4. ⬆️ Pushed undefined commit(s) to [Sharan-Prashanth/SIH25180](https://github.com/Sharan-Prashanth/SIH25180)<br>
 5. ⬆️ Pushed undefined commit(s) to [Sharan-Prashanth/SIH25180](https://github.com/Sharan-Prashanth/SIH25180)<br>
 <!--RECENT_ACTIVITY:end-->
