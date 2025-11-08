@@ -8,8 +8,8 @@
 1. ⭐ Starred [documenso/documenso](https://github.com/documenso/documenso)<br>
 2. ⭐ Starred [longbridge/gpui-component](https://github.com/longbridge/gpui-component)<br>
 3. ⭐ Starred [devrev/mcp-server](https://github.com/devrev/mcp-server)<br>
-4. ⬆️ Pushed undefined commit(s) to [Sharan-Prashanth/SIH25180](https://github.com/Sharan-Prashanth/SIH25180)<br>
-5. ⬆️ Pushed undefined commit(s) to [Sharan-Prashanth/SIH25180](https://github.com/Sharan-Prashanth/SIH25180)<br>
+4. ⭐ Starred [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)<br>
+5. ⬆️ Pushed undefined commit(s) to [Aksshay88/packer.ai](https://github.com/Aksshay88/packer.ai)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
