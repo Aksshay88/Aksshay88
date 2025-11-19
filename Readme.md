@@ -9,7 +9,6 @@
 2. ⭐ Starred [longbridge/gpui-component](https://github.com/longbridge/gpui-component)<br>
 3. ⭐ Starred [devrev/mcp-server](https://github.com/devrev/mcp-server)<br>
 4. ⭐ Starred [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)<br>
-5. ⬆️ Pushed undefined commit(s) to [Aksshay88/packer.ai](https://github.com/Aksshay88/packer.ai)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
