@@ -5,10 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [documenso/documenso](https://github.com/documenso/documenso)<br>
-2. ⭐ Starred [longbridge/gpui-component](https://github.com/longbridge/gpui-component)<br>
-3. ⭐ Starred [devrev/mcp-server](https://github.com/devrev/mcp-server)<br>
-4. ⭐ Starred [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)<br>
+1. ⭐ Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)<br>
+2. ⭐ Starred [documenso/documenso](https://github.com/documenso/documenso)<br>
+3. ⭐ Starred [longbridge/gpui-component](https://github.com/longbridge/gpui-component)<br>
+4. ⭐ Starred [devrev/mcp-server](https://github.com/devrev/mcp-server)<br>
+5. ⭐ Starred [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
