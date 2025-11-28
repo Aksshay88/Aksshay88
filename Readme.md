@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [adithyagenie/microsoft-action-center-checker](https://github.com/adithyagenie/microsoft-action-center-checker)<br>
-2. ⭐ Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)<br>
-3. ⭐ Starred [documenso/documenso](https://github.com/documenso/documenso)<br>
-4. ⭐ Starred [longbridge/gpui-component](https://github.com/longbridge/gpui-component)<br>
-5. ⭐ Starred [devrev/mcp-server](https://github.com/devrev/mcp-server)<br>
+1. ⭐ Starred [VERT-sh/VERT](https://github.com/VERT-sh/VERT)<br>
+2. ⭐ Starred [adithyagenie/microsoft-action-center-checker](https://github.com/adithyagenie/microsoft-action-center-checker)<br>
+3. ⭐ Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)<br>
+4. ⭐ Starred [documenso/documenso](https://github.com/documenso/documenso)<br>
+5. ⭐ Starred [longbridge/gpui-component](https://github.com/longbridge/gpui-component)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
