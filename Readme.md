@@ -9,7 +9,6 @@
 2. ⭐ Starred [adithyagenie/microsoft-action-center-checker](https://github.com/adithyagenie/microsoft-action-center-checker)<br>
 3. ⭐ Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)<br>
 4. ⭐ Starred [documenso/documenso](https://github.com/documenso/documenso)<br>
-5. ⭐ Starred [longbridge/gpui-component](https://github.com/longbridge/gpui-component)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
