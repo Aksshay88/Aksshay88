@@ -24,7 +24,7 @@
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-345%20hrs%2019%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.7%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -52,7 +52,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2025 18:51:36 UTC
+ Last Updated on 30/11/2025 18:50:58 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
