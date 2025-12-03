@@ -8,7 +8,6 @@
 1. ⭐ Starred [VERT-sh/VERT](https://github.com/VERT-sh/VERT)<br>
 2. ⭐ Starred [adithyagenie/microsoft-action-center-checker](https://github.com/adithyagenie/microsoft-action-center-checker)<br>
 3. ⭐ Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)<br>
-4. ⭐ Starred [documenso/documenso](https://github.com/documenso/documenso)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
