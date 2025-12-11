@@ -21,9 +21,9 @@
  ---
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-345%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-346%20hrs%2027%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.3%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -31,14 +31,14 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               15 mins             ████████████████████░░░░░   78.26 % 
-JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+TypeScript               27 mins             ██████████████░░░░░░░░░░░   55.92 % 
+Markdown                 14 mins             ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-Neovim                   20 mins             █████████████████████████   100.00 % 
+Neovim                   48 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -54,7 +54,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/12/2025 18:56:46 UTC
+ Last Updated on 11/12/2025 18:58:43 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
