@@ -5,7 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [VERT-sh/VERT](https://github.com/VERT-sh/VERT)<br>
+1. ⭐ Starred [ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools)<br>
+2. ⭐ Starred [USBToolBox/kext](https://github.com/USBToolBox/kext)<br>
+3. ⭐ Starred [USBToolBox/tool](https://github.com/USBToolBox/tool)<br>
+4. ⭐ Starred [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify)<br>
+5. ⭐ Starred [VERT-sh/VERT](https://github.com/VERT-sh/VERT)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
