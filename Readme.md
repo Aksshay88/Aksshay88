@@ -9,7 +9,6 @@
 2. ⭐ Starred [USBToolBox/kext](https://github.com/USBToolBox/kext)<br>
 3. ⭐ Starred [USBToolBox/tool](https://github.com/USBToolBox/tool)<br>
 4. ⭐ Starred [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify)<br>
-5. ⭐ Starred [VERT-sh/VERT](https://github.com/VERT-sh/VERT)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
