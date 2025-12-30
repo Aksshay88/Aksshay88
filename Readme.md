@@ -33,11 +33,10 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 13 mins             ██████████████████░░░░░░░   70.77 % 
-TypeScript               5 mins              ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -53,7 +52,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2025 18:55:47 UTC
+ Last Updated on 30/12/2025 18:57:28 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
