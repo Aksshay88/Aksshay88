@@ -5,10 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools)<br>
-2. ⭐ Starred [USBToolBox/kext](https://github.com/USBToolBox/kext)<br>
-3. ⭐ Starred [USBToolBox/tool](https://github.com/USBToolBox/tool)<br>
-4. ⭐ Starred [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify)<br>
+1. ⭐ Starred [lovelindhoni/foofighters](https://github.com/lovelindhoni/foofighters)<br>
+2. ⭐ Starred [tw93/Mole](https://github.com/tw93/Mole)<br>
+3. ⭐ Starred [ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools)<br>
+4. ⭐ Starred [USBToolBox/kext](https://github.com/USBToolBox/kext)<br>
+5. ⭐ Starred [USBToolBox/tool](https://github.com/USBToolBox/tool)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
