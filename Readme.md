@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Sharan-Prashanth/-bytespace-sih25180](https://github.com/Sharan-Prashanth/-bytespace-sih25180)<br>
-2. ⭐ Starred [lovelindhoni/foofighters](https://github.com/lovelindhoni/foofighters)<br>
-3. ⭐ Starred [tw93/Mole](https://github.com/tw93/Mole)<br>
-4. ⭐ Starred [ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools)<br>
-5. ⭐ Starred [USBToolBox/kext](https://github.com/USBToolBox/kext)<br>
+1. ⭐ Starred [upstash/context7](https://github.com/upstash/context7)<br>
+2. ⭐ Starred [get-convex/convex-backend](https://github.com/get-convex/convex-backend)<br>
+3. ⭐ Starred [Sharan-Prashanth/-bytespace-sih25180](https://github.com/Sharan-Prashanth/-bytespace-sih25180)<br>
+4. ⭐ Starred [lovelindhoni/foofighters](https://github.com/lovelindhoni/foofighters)<br>
+5. ⭐ Starred [tw93/Mole](https://github.com/tw93/Mole)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
