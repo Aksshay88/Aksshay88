@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [upstash/context7](https://github.com/upstash/context7)<br>
-2. ⭐ Starred [get-convex/convex-backend](https://github.com/get-convex/convex-backend)<br>
-3. ⭐ Starred [Sharan-Prashanth/-bytespace-sih25180](https://github.com/Sharan-Prashanth/-bytespace-sih25180)<br>
-4. ⭐ Starred [lovelindhoni/foofighters](https://github.com/lovelindhoni/foofighters)<br>
-5. ⭐ Starred [tw93/Mole](https://github.com/tw93/Mole)<br>
+1. ⭐ Starred [snarktank/ralph](https://github.com/snarktank/ralph)<br>
+2. ⭐ Starred [upstash/context7](https://github.com/upstash/context7)<br>
+3. ⭐ Starred [get-convex/convex-backend](https://github.com/get-convex/convex-backend)<br>
+4. ⭐ Starred [Sharan-Prashanth/-bytespace-sih25180](https://github.com/Sharan-Prashanth/-bytespace-sih25180)<br>
+5. ⭐ Starred [lovelindhoni/foofighters](https://github.com/lovelindhoni/foofighters)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
