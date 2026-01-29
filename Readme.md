@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
-2. ⬆️ Pushed undefined commit(s) to [Aksshay88/procSentinel](https://github.com/Aksshay88/procSentinel)<br>
+1. ⭐ Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)<br>
+2. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
 3. ⬆️ Pushed undefined commit(s) to [Aksshay88/procSentinel](https://github.com/Aksshay88/procSentinel)<br>
-4. 💪 Opened PR [#2](undefined) in [Ren-Gen22/procSentinel](https://github.com/Ren-Gen22/procSentinel)<br>
-5. ⬆️ Pushed undefined commit(s) to [Aksshay88/procSentinel](https://github.com/Aksshay88/procSentinel)<br>
+4. ⬆️ Pushed undefined commit(s) to [Aksshay88/procSentinel](https://github.com/Aksshay88/procSentinel)<br>
+5. 💪 Opened PR [#2](undefined) in [Ren-Gen22/procSentinel](https://github.com/Ren-Gen22/procSentinel)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
