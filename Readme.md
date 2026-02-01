@@ -23,25 +23,7 @@
  ---
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-367%20hrs%2052%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.52%20million%20lines%20of%20code-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Nix                      59 mins             ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
-JSON                     38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-conf                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Markdown                 30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Bash                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-
-🔥 Editors: 
-Neovim                   4 hrs               █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in TypeScript** 
 
@@ -56,7 +38,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2026 19:00:28 UTC
+ Last Updated on 01/02/2026 19:04:29 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
