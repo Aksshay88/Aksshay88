@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br>
-2. ⭐ Starred [Sujan-6905/opencode-global-configs](https://github.com/Sujan-6905/opencode-global-configs)<br>
-3. ⭐ Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>
-4. ⭐ Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)<br>
-5. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
+1. ⭐ Starred [tldev/posturr](https://github.com/tldev/posturr)<br>
+2. ⭐ Starred [project-blinc/Blinc](https://github.com/project-blinc/Blinc)<br>
+3. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br>
+4. ⭐ Starred [Sujan-6905/opencode-global-configs](https://github.com/Sujan-6905/opencode-global-configs)<br>
+5. ⭐ Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
