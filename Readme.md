@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tldev/posturr](https://github.com/tldev/posturr)<br>
-2. ⭐ Starred [project-blinc/Blinc](https://github.com/project-blinc/Blinc)<br>
-3. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br>
-4. ⭐ Starred [Sujan-6905/opencode-global-configs](https://github.com/Sujan-6905/opencode-global-configs)<br>
-5. ⭐ Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>
+1. ⭐ Starred [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)<br>
+2. ⭐ Starred [darrenburns/posting](https://github.com/darrenburns/posting)<br>
+3. ⭐ Starred [e2b-dev/E2B](https://github.com/e2b-dev/E2B)<br>
+4. ⭐ Starred [tldev/posturr](https://github.com/tldev/posturr)<br>
+5. ⭐ Starred [project-blinc/Blinc](https://github.com/project-blinc/Blinc)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
