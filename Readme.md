@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sameerasw/airsync-mac](https://github.com/sameerasw/airsync-mac)<br>
-2. ⭐ Starred [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)<br>
-3. ⭐ Starred [darrenburns/posting](https://github.com/darrenburns/posting)<br>
-4. ⭐ Starred [e2b-dev/E2B](https://github.com/e2b-dev/E2B)<br>
-5. ⭐ Starred [tldev/posturr](https://github.com/tldev/posturr)<br>
+1. ⭐ Starred [ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good)<br>
+2. ⭐ Starred [sameerasw/airsync-mac](https://github.com/sameerasw/airsync-mac)<br>
+3. ⭐ Starred [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)<br>
+4. ⭐ Starred [darrenburns/posting](https://github.com/darrenburns/posting)<br>
+5. ⭐ Starred [e2b-dev/E2B](https://github.com/e2b-dev/E2B)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
