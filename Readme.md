@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)<br>
-2. ⭐ Starred [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf)<br>
-3. ⭐ Starred [Morantron/tmux-fingers](https://github.com/Morantron/tmux-fingers)<br>
-4. ⭐ Starred [ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good)<br>
-5. ⭐ Starred [sameerasw/airsync-mac](https://github.com/sameerasw/airsync-mac)<br>
+1. ⭐ Starred [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)<br>
+2. ⭐ Starred [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)<br>
+3. ⭐ Starred [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf)<br>
+4. ⭐ Starred [Morantron/tmux-fingers](https://github.com/Morantron/tmux-fingers)<br>
+5. ⭐ Starred [ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
