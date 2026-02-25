@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [anthropics/skills](https://github.com/anthropics/skills)<br>
-2. ⭐ Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
-3. ⭐ Starred [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)<br>
-4. ⭐ Starred [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)<br>
-5. ⭐ Starred [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)<br>
+1. ⭐ Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)<br>
+2. ⭐ Starred [anthropics/skills](https://github.com/anthropics/skills)<br>
+3. ⭐ Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
+4. ⭐ Starred [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)<br>
+5. ⭐ Starred [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
