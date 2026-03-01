@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)<br>
-2. ⭐ Starred [anthropics/skills](https://github.com/anthropics/skills)<br>
-3. ⭐ Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
-4. ⭐ Starred [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)<br>
-5. ⭐ Starred [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)<br>
+1. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
+2. ⭐ Starred [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)<br>
+3. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
+4. ⭐ Starred [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim)<br>
+5. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
