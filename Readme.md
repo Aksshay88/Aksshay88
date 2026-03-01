@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
-2. ⭐ Starred [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)<br>
-3. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
-4. ⭐ Starred [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim)<br>
-5. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
+1. ⭐ Starred [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)<br>
+2. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
+3. ⭐ Starred [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)<br>
+4. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
+5. ⭐ Starred [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
