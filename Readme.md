@@ -23,9 +23,9 @@
  ---
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.58%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.64%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -33,30 +33,30 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     44 mins             █████████░░░░░░░░░░░░░░░░   35.44 % 
-Lua                      31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-Go                       18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Python                   15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Nix                      29 mins             ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+Lua                      28 mins             ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+Markdown                 22 mins             █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Bash                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 4 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               17 repos            ████████░░░░░░░░░░░░░░░░░   31.48 % 
-Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Nix                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+TypeScript               16 repos            ████████░░░░░░░░░░░░░░░░░   32.00 % 
+Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Lua                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
 
 
- Last Updated on 10/02/2026 19:43:20 UTC
+ Last Updated on 04/03/2026 13:50:17 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
