@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#304](https://github.com/PranavBarthwal/cosmoXplore/issues/304) in [PranavBarthwal/cosmoXplore](https://github.com/PranavBarthwal/cosmoXplore)<br>
-2. ✔️ Closed issue [#374](https://github.com/JAYESHBATRA/Virtuo-Learn/issues/374) in [JAYESHBATRA/Virtuo-Learn](https://github.com/JAYESHBATRA/Virtuo-Learn)<br>
-3. ✔️ Closed issue [#228](https://github.com/Sayak-Bhunia/mystory/issues/228) in [Sayak-Bhunia/mystory](https://github.com/Sayak-Bhunia/mystory)<br>
-4. ✔️ Closed issue [#218](https://github.com/dishamodi0910/APIVerse/issues/218) in [dishamodi0910/APIVerse](https://github.com/dishamodi0910/APIVerse)<br>
-5. ⭐ Starred [nimit2801/devrev-search](https://github.com/nimit2801/devrev-search)<br>
+1. ✔️ Closed issue [#216](https://github.com/dishamodi0910/APIVerse/issues/216) in [dishamodi0910/APIVerse](https://github.com/dishamodi0910/APIVerse)<br>
+2. ✔️ Closed issue [#304](https://github.com/PranavBarthwal/cosmoXplore/issues/304) in [PranavBarthwal/cosmoXplore](https://github.com/PranavBarthwal/cosmoXplore)<br>
+3. ✔️ Closed issue [#374](https://github.com/JAYESHBATRA/Virtuo-Learn/issues/374) in [JAYESHBATRA/Virtuo-Learn](https://github.com/JAYESHBATRA/Virtuo-Learn)<br>
+4. ✔️ Closed issue [#228](https://github.com/Sayak-Bhunia/mystory/issues/228) in [Sayak-Bhunia/mystory](https://github.com/Sayak-Bhunia/mystory)<br>
+5. ✔️ Closed issue [#218](https://github.com/dishamodi0910/APIVerse/issues/218) in [dishamodi0910/APIVerse](https://github.com/dishamodi0910/APIVerse)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
