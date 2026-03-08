@@ -33,30 +33,30 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     38 mins             ███████░░░░░░░░░░░░░░░░░░   28.27 % 
-Nix                      33 mins             ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-Lua                      28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-Bash                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-zsh                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+JSON                     32 mins             ███████████░░░░░░░░░░░░░░   45.53 % 
+Bash                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Nix                      10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Markdown                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+zsh                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 15 mins       █████████████████████████   100.00 % 
+Neovim                   1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               16 repos            ████████░░░░░░░░░░░░░░░░░   32.00 % 
-Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Lua                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               16 repos            ████████░░░░░░░░░░░░░░░░░   31.37 % 
+Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Lua                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
 
 
- Last Updated on 07/03/2026 18:59:33 UTC
+ Last Updated on 08/03/2026 19:00:27 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
