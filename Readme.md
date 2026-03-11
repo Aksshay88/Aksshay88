@@ -23,9 +23,9 @@
  ---
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2014%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.64%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.66%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -33,14 +33,14 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     32 mins             ███████████████░░░░░░░░░░   58.77 % 
-Bash                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-zsh                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Nix                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+JSON                     32 mins             ██████████████░░░░░░░░░░░   54.15 % 
+Bash                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+zsh                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Nix                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 
 🔥 Editors: 
-Neovim                   55 mins             █████████████████████████   100.00 % 
+Neovim                   59 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -56,7 +56,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/03/2026 19:24:40 UTC
+ Last Updated on 11/03/2026 19:27:55 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
