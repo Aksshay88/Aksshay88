@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [anomalyco/opentui](https://github.com/anomalyco/opentui)<br>
-2. 💪 Opened PR [#5](undefined) in [devrev/devrev-search-bench](https://github.com/devrev/devrev-search-bench)<br>
-3. ⭐ Starred [pystardust/ani-cli](https://github.com/pystardust/ani-cli)<br>
-4. ✔️ Closed issue [#216](https://github.com/dishamodi0910/APIVerse/issues/216) in [dishamodi0910/APIVerse](https://github.com/dishamodi0910/APIVerse)<br>
-5. ✔️ Closed issue [#304](https://github.com/PranavBarthwal/cosmoXplore/issues/304) in [PranavBarthwal/cosmoXplore](https://github.com/PranavBarthwal/cosmoXplore)<br>
+1. 💬 Commented on [#5](https://github.com/devrev/devrev-search-bench/pull/5#issuecomment-4068173314) in [devrev/devrev-search-bench](https://github.com/devrev/devrev-search-bench)<br>
+2. ⭐ Starred [anomalyco/opentui](https://github.com/anomalyco/opentui)<br>
+3. 💪 Opened PR [#5](undefined) in [devrev/devrev-search-bench](https://github.com/devrev/devrev-search-bench)<br>
+4. ⭐ Starred [pystardust/ani-cli](https://github.com/pystardust/ani-cli)<br>
+5. ✔️ Closed issue [#216](https://github.com/dishamodi0910/APIVerse/issues/216) in [dishamodi0910/APIVerse](https://github.com/dishamodi0910/APIVerse)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
