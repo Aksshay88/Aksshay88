@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)<br>
-2. ⭐ Starred [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)<br>
-3. ⭐ Starred [PutluruAravindaReddy/supermemory](https://github.com/PutluruAravindaReddy/supermemory)<br>
-4. 💬 Commented on [#5](https://github.com/devrev/devrev-search-bench/pull/5#issuecomment-4068173314) in [devrev/devrev-search-bench](https://github.com/devrev/devrev-search-bench)<br>
-5. ⭐ Starred [anomalyco/opentui](https://github.com/anomalyco/opentui)<br>
+1. ⭐ Starred [lovelindhoni/scarlet](https://github.com/lovelindhoni/scarlet)<br>
+2. ⭐ Starred [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)<br>
+3. ⭐ Starred [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)<br>
+4. ⭐ Starred [PutluruAravindaReddy/supermemory](https://github.com/PutluruAravindaReddy/supermemory)<br>
+5. 💬 Commented on [#5](https://github.com/devrev/devrev-search-bench/pull/5#issuecomment-4068173314) in [devrev/devrev-search-bench](https://github.com/devrev/devrev-search-bench)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
