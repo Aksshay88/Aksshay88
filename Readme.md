@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
-2. ⭐ Starred [alexpasmantier/television](https://github.com/alexpasmantier/television)<br>
-3. ⭐ Starred [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)<br>
-4. ⭐ Starred [lovelindhoni/scarlet](https://github.com/lovelindhoni/scarlet)<br>
-5. ⭐ Starred [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)<br>
+1. ⭐ Starred [microsoft/RustTraining](https://github.com/microsoft/RustTraining)<br>
+2. ⭐ Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)<br>
+3. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
+4. ⭐ Starred [alexpasmantier/television](https://github.com/alexpasmantier/television)<br>
+5. ⭐ Starred [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
