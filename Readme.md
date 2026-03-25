@@ -33,29 +33,29 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-zsh                      23 mins             ██████████████████████░░░   87.49 % 
-Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Nix                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+zsh                      12 mins             ████████████████████░░░░░   79.09 % 
+Bash                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Nix                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🔥 Editors: 
-Neovim                   26 mins             █████████████████████████   100.00 % 
+Neovim                   15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               16 repos            ████████░░░░░░░░░░░░░░░░░   30.77 % 
-Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Lua                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+TypeScript               16 repos            ████████░░░░░░░░░░░░░░░░░   30.19 % 
+Python                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Lua                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 ```
 
 
 
 
- Last Updated on 24/03/2026 19:36:39 UTC
+ Last Updated on 25/03/2026 19:28:40 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
