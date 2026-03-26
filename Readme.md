@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/RustTraining](https://github.com/microsoft/RustTraining)<br>
-2. ⭐ Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)<br>
-3. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
-4. ⭐ Starred [alexpasmantier/television](https://github.com/alexpasmantier/television)<br>
-5. ⭐ Starred [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)<br>
+1. ⬆️ Pushed undefined commit(s) to [Aksshay88/bijin](https://github.com/Aksshay88/bijin)<br>
+2. ⬆️ Pushed undefined commit(s) to [Aksshay88/bijin](https://github.com/Aksshay88/bijin)<br>
+3. ⭐ Starred [microsoft/RustTraining](https://github.com/microsoft/RustTraining)<br>
+4. ⭐ Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)<br>
+5. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
