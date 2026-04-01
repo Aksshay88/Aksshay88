@@ -5,10 +5,10 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Kuberwastaken/claude-code](https://github.com/Kuberwastaken/claude-code)<br>
-2. ⭐ Starred [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs)<br>
-3. ⭐ Starred [LucasHJin/vit](https://github.com/LucasHJin/vit)<br>
-4. ⬆️ Pushed undefined commit(s) to [Aksshay88/bijin](https://github.com/Aksshay88/bijin)<br>
+1. ⭐ Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)<br>
+2. ⭐ Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)<br>
+3. ⭐ Starred [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs)<br>
+4. ⭐ Starred [LucasHJin/vit](https://github.com/LucasHJin/vit)<br>
 5. ⬆️ Pushed undefined commit(s) to [Aksshay88/bijin](https://github.com/Aksshay88/bijin)<br>
 <!--RECENT_ACTIVITY:end-->
 
