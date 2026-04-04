@@ -33,28 +33,27 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     4 mins              █████████░░░░░░░░░░░░░░░░   36.41 % 
-confini                  4 mins              █████████░░░░░░░░░░░░░░░░   35.16 % 
-Markdown                 3 mins              ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+JSON                     4 mins              █████████████░░░░░░░░░░░░   50.87 % 
+confini                  4 mins              ████████████░░░░░░░░░░░░░   49.13 % 
 
 🔥 Editors: 
-Neovim                   13 mins             █████████████████████████   100.00 % 
+Neovim                   9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               16 repos            ████████░░░░░░░░░░░░░░░░░   30.19 % 
-Python                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Lua                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+TypeScript               15 repos            ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+Python                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Lua                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 03/04/2026 19:24:38 UTC
+ Last Updated on 04/04/2026 19:10:26 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
