@@ -23,7 +23,7 @@
  ---
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2042%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.66%20million%20lines%20of%20code-blue?style=flat)
 
@@ -33,11 +33,13 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     4 mins              █████████████░░░░░░░░░░░░   50.87 % 
-confini                  4 mins              ████████████░░░░░░░░░░░░░   49.13 % 
+JSON                     14 mins             ███████████████████░░░░░░   74.54 % 
+confini                  4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-Neovim                   9 mins              █████████████████████████   100.00 % 
+Neovim                   9 mins              █████████████░░░░░░░░░░░░   50.40 % 
+Vim                      9 mins              ████████████░░░░░░░░░░░░░   49.60 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -53,7 +55,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/04/2026 19:13:08 UTC
+ Last Updated on 06/04/2026 19:38:32 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
