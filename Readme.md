@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
-2. ⭐ Starred [chenglou/pretext](https://github.com/chenglou/pretext)<br>
-3. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
-4. ⭐ Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)<br>
-5. ⭐ Starred [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs)<br>
+1. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
+2. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
+3. ⭐ Starred [chenglou/pretext](https://github.com/chenglou/pretext)<br>
+4. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
+5. ⭐ Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
