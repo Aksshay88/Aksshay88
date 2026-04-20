@@ -25,7 +25,7 @@
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2059%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.10%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.13%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -33,30 +33,30 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     4 hrs 8 mins        ████████████░░░░░░░░░░░░░   46.14 % 
-YAML                     1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Markdown                 1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Bash                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-TypeScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+JSON                     1 hr 39 mins        ████████████░░░░░░░░░░░░░   46.36 % 
+TypeScript               27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Markdown                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+YAML                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Bash                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
 
 🔥 Editors: 
-Neovim                   8 hrs 58 mins       █████████████████████████   100.00 % 
+Neovim                   3 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               15 repos            ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-Python                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Lua                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+TypeScript               16 repos            ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+Python                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Lua                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 ```
 
 
 
 
- Last Updated on 19/04/2026 19:26:54 UTC
+ Last Updated on 20/04/2026 19:42:49 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
