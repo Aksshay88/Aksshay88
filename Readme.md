@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [browser-use/video-use](https://github.com/browser-use/video-use)<br>
-2. ⭐ Starred [typst/typst](https://github.com/typst/typst)<br>
-3. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)<br>
-4. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
-5. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
+1. ⭐ Starred [maximhq/bifrost](https://github.com/maximhq/bifrost)<br>
+2. ⭐ Starred [browser-use/video-use](https://github.com/browser-use/video-use)<br>
+3. ⭐ Starred [typst/typst](https://github.com/typst/typst)<br>
+4. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)<br>
+5. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
