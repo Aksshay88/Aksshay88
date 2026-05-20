@@ -23,9 +23,26 @@
  ---
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-528%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-532%20hrs%2019%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.13%20million%20lines%20of%20code-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JSON                     5 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+Markdown                 2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Python                   2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Bash                     2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Other                    1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+
+🔥 Editors: 
+Claude Code              16 hrs 46 mins      ████████████████████░░░░░   81.72 % 
+Neovim                   3 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -40,7 +57,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2026 20:16:57 UTC
+ Last Updated on 20/05/2026 20:37:04 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
