@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-2. ⭐ Starred [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>
-3. ⭐ Starred [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)<br>
-4. ⭐ Starred [spinframework/spin](https://github.com/spinframework/spin)<br>
-5. ⭐ Starred [maximhq/bifrost](https://github.com/maximhq/bifrost)<br>
+1. ⭐ Starred [sonichi/sutando](https://github.com/sonichi/sutando)<br>
+2. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
+3. ⭐ Starred [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>
+4. ⭐ Starred [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)<br>
+5. ⭐ Starred [spinframework/spin](https://github.com/spinframework/spin)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
