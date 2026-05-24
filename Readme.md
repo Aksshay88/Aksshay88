@@ -9,7 +9,7 @@
 2. ⭐ Starred [sonichi/sutando](https://github.com/sonichi/sutando)<br>
 3. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
 4. ⭐ Starred [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>
-5. ⭐ Starred [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)<br>
+5. ⭐ Starred [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
