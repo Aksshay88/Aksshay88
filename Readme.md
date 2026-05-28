@@ -23,27 +23,7 @@
  ---
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2023%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.13%20million%20lines%20of%20code-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Bash                     2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.01 % 
-JSON                     1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-YAML                     1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Other                    59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Python                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-
-🔥 Editors: 
-Claude Code              5 hrs 13 mins       █████████████████░░░░░░░░   66.83 % 
-Neovim                   1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
-OpenCode                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-```
 
 **I Mostly Code in TypeScript** 
 
@@ -58,7 +38,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2026 20:36:54 UTC
+ Last Updated on 28/05/2026 20:58:44 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
