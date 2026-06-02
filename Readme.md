@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)<br>
-2. ⭐ Starred [sonichi/sutando](https://github.com/sonichi/sutando)<br>
-3. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-4. ⭐ Starred [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>
-5. ⭐ Starred [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)<br>
+1. ⭐ Starred [DefGuard/defguard](https://github.com/DefGuard/defguard)<br>
+2. ⭐ Starred [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)<br>
+3. ⭐ Starred [sonichi/sutando](https://github.com/sonichi/sutando)<br>
+4. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
+5. ⭐ Starred [duckdb/duckdb](https://github.com/duckdb/duckdb)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
