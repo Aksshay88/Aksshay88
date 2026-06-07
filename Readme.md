@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)<br>
-2. ⭐ Starred [DefGuard/defguard](https://github.com/DefGuard/defguard)<br>
-3. ⭐ Starred [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)<br>
-4. ⭐ Starred [sonichi/sutando](https://github.com/sonichi/sutando)<br>
-5. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
+1. ⭐ Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)<br>
+2. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)<br>
+3. ⭐ Starred [DefGuard/defguard](https://github.com/DefGuard/defguard)<br>
+4. ⭐ Starred [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)<br>
+5. ⭐ Starred [sonichi/sutando](https://github.com/sonichi/sutando)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
