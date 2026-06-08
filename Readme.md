@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)<br>
-2. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)<br>
-3. ⭐ Starred [DefGuard/defguard](https://github.com/DefGuard/defguard)<br>
-4. ⭐ Starred [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)<br>
-5. ⭐ Starred [sonichi/sutando](https://github.com/sonichi/sutando)<br>
+1. ⭐ Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)<br>
+2. ⭐ Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)<br>
+3. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)<br>
+4. ⭐ Starred [DefGuard/defguard](https://github.com/DefGuard/defguard)<br>
+5. ⭐ Starred [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
