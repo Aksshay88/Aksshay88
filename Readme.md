@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix)<br>
-2. ⭐ Starred [apple/container](https://github.com/apple/container)<br>
-3. ⭐ Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)<br>
-4. ⭐ Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)<br>
-5. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)<br>
+1. ⭐ Starred [different-ai/openwork](https://github.com/different-ai/openwork)<br>
+2. ⭐ Starred [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix)<br>
+3. ⭐ Starred [apple/container](https://github.com/apple/container)<br>
+4. ⭐ Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)<br>
+5. ⭐ Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
