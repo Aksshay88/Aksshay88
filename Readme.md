@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)<br>
-2. ⭐ Starred [different-ai/openwork](https://github.com/different-ai/openwork)<br>
-3. ⭐ Starred [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix)<br>
-4. ⭐ Starred [apple/container](https://github.com/apple/container)<br>
-5. ⭐ Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)<br>
+1. ⭐ Starred [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)<br>
+2. ⭐ Starred [hodgesz/job-finder](https://github.com/hodgesz/job-finder)<br>
+3. ⭐ Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)<br>
+4. ⭐ Starred [different-ai/openwork](https://github.com/different-ai/openwork)<br>
+5. ⭐ Starred [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
