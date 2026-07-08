@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DAMONBLUE2021/Agentoes](https://github.com/DAMONBLUE2021/Agentoes)<br>
-2. ⭐ Starred [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)<br>
-3. ⭐ Starred [hodgesz/job-finder](https://github.com/hodgesz/job-finder)<br>
-4. ⭐ Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)<br>
-5. ⭐ Starred [different-ai/openwork](https://github.com/different-ai/openwork)<br>
+1. ⭐ Starred [rustfinity/rustfinity](https://github.com/rustfinity/rustfinity)<br>
+2. ⭐ Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)<br>
+3. ⭐ Starred [DAMONBLUE2021/Agentoes](https://github.com/DAMONBLUE2021/Agentoes)<br>
+4. ⭐ Starred [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)<br>
+5. ⭐ Starred [hodgesz/job-finder](https://github.com/hodgesz/job-finder)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
