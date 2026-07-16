@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins)<br>
-2. ⭐ Starred [Pragdishwar/Vision-AWD](https://github.com/Pragdishwar/Vision-AWD)<br>
-3. ⭐ Starred [rustfinity/rustfinity](https://github.com/rustfinity/rustfinity)<br>
-4. ⭐ Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)<br>
-5. ⭐ Starred [DAMONBLUE2021/Agentoes](https://github.com/DAMONBLUE2021/Agentoes)<br>
+1. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
+2. ⭐ Starred [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins)<br>
+3. ⭐ Starred [Pragdishwar/Vision-AWD](https://github.com/Pragdishwar/Vision-AWD)<br>
+4. ⭐ Starred [rustfinity/rustfinity](https://github.com/rustfinity/rustfinity)<br>
+5. ⭐ Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
