@@ -23,51 +23,7 @@
  ---
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-576%20hrs%2026%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-206%20hrs%2032%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.11%20million%20lines%20of%20code-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    1 hr 54 mins        ████████████░░░░░░░░░░░░░   46.19 % 
-JSON                     1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   27.44 % 
-TOML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-
-🔥 Editors: 
-Claude Code              2 hrs 33 mins       ████████████████░░░░░░░░░   62.17 % 
-Cursor                   1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-Neovim                   27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 4 hrs 4 mins (98.96%)
-
-✍️ 321 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 9,073,786 Input Tokens, 34,413 Output Tokens
-
-💵 $45.79 Estimated AI Cost This Week
-
-🧠 26 AI Sessions, 102 AI Prompts
-
-Opus                     363 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,916 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
 
 **I Mostly Code in TypeScript** 
 
@@ -82,7 +38,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 20:08:19 UTC
+ Last Updated on 28/07/2026 20:05:00 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
