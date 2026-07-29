@@ -23,7 +23,51 @@
  ---
  
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%2047%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-210%20hrs%2041%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.11%20million%20lines%20of%20code-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JSON                     4 hrs 9 mins        ███████████████░░░░░░░░░░   60.02 % 
+Other                    2 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.92 % 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+
+🔥 Editors: 
+Claude Code              6 hrs 4 mins        ██████████████████████░░░   87.63 % 
+Cursor                   39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Neovim                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 6 hrs 53 mins (99.38%)
+
+✍️ 1,090 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 25,190,014 Input Tokens, 80,254 Output Tokens
+
+💵 $125.12 Estimated AI Cost This Week
+
+🧠 19 AI Sessions, 174 AI Prompts
+
+Opus                     1,140 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,231 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -38,7 +82,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 20:05:00 UTC
+ Last Updated on 29/07/2026 19:56:14 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
