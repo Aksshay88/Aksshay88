@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
+1. ⭐ Starred [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)<br>
 2. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
-3. ⭐ Starred [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins)<br>
-4. ⭐ Starred [Pragdishwar/Vision-AWD](https://github.com/Pragdishwar/Vision-AWD)<br>
-5. ⭐ Starred [rustfinity/rustfinity](https://github.com/rustfinity/rustfinity)<br>
+3. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
+4. ⭐ Starred [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins)<br>
+5. ⭐ Starred [Pragdishwar/Vision-AWD](https://github.com/Pragdishwar/Vision-AWD)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
