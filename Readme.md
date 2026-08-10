@@ -23,11 +23,11 @@
  ---
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-586%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-218%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-218%20hrs%2045%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.11%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.08%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -35,55 +35,55 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    51 mins             ████████░░░░░░░░░░░░░░░░░   31.80 % 
-Markdown                 30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-Bash                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Python                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-JavaScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Other                    56 mins             █████████░░░░░░░░░░░░░░░░   34.26 % 
+Markdown                 30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+JSON                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Python                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
 
 🔥 Editors: 
-Claude Code              1 hr 51 mins        █████████████████░░░░░░░░   68.34 % 
-Cursor                   50 mins             ████████░░░░░░░░░░░░░░░░░   30.95 % 
-Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Claude Code              1 hr 51 mins        █████████████████░░░░░░░░   67.49 % 
+Cursor                   52 mins             ████████░░░░░░░░░░░░░░░░░   31.81 % 
+Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 41 mins (99.29%)
+⏱ AI Coding Time: 2 hrs 43 mins (99.3%)
 
-✍️ 319 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 192 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,967,699 Input Tokens, 49,073 Output Tokens
+🔤 6,883,074 Input Tokens, 49,280 Output Tokens
 
-💵 $36.06 Estimated AI Cost This Week
+💵 $35.72 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 95 AI Prompts
+🧠 18 AI Sessions, 82 AI Prompts
 
-Opus                     319 lines           █████████████████████████   100.00 % 
+Opus                     192 lines           █████████████████████████   100.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 197 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 306 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               15 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-Python                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Lua                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+TypeScript               14 repos            ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+Python                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Lua                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 ```
 
 
 
 
- Last Updated on 09/08/2026 19:15:23 UTC
+ Last Updated on 10/08/2026 19:35:04 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
