@@ -9,7 +9,6 @@
 2. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
 3. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
 4. ⭐ Starred [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins)<br>
-5. ⭐ Starred [Pragdishwar/Vision-AWD](https://github.com/Pragdishwar/Vision-AWD)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
