@@ -8,7 +8,6 @@
 1. ⭐ Starred [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)<br>
 2. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
 3. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
-4. ⭐ Starred [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
