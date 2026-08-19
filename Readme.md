@@ -6,7 +6,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)<br>
-2. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
