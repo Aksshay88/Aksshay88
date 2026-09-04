@@ -33,39 +33,39 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     4 hrs 18 mins       ██████████████░░░░░░░░░░░   56.63 % 
-Other                    1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-Nix                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+JSON                     3 hrs 17 mins       ██████████████░░░░░░░░░░░   55.67 % 
+Other                    1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   30.04 % 
+Nix                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 26 mins       ███████████████░░░░░░░░░░   58.49 % 
-Cursor                   1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-Agent                    1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Neovim                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Claude Code              3 hrs 39 mins       ████████████████░░░░░░░░░   62.16 % 
+Cursor                   1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Agent                    58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Neovim                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 33 mins (99.38%)
+⏱ AI Coding Time: 5 hrs 51 mins (99.2%)
 
-✍️ 2,375 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,650 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,838,645 Input Tokens, 186,778 Output Tokens
+🔤 1,605,976 Input Tokens, 142,089 Output Tokens
 
-💵 $22.01 Estimated AI Cost This Week
+💵 $17.94 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 234 AI Prompts
+🧠 19 AI Sessions, 185 AI Prompts
 
-Opus                     2,526 lines         █████████████████████████   100.00 % 
+Opus                     1,760 lines         █████████████████████████   100.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,526 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📄 Detailed Prompter — average 1,377 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -82,7 +82,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 21:18:15 UTC
+ Last Updated on 04/09/2026 21:00:10 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
