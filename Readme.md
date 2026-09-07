@@ -25,7 +25,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-242%20hrs%2045%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.08%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.06%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -33,56 +33,56 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     3 hrs 17 mins       ███████████████░░░░░░░░░░   60.32 % 
-Other                    1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-Nix                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Other                    1 hr 19 mins        ██████████████████░░░░░░░   70.95 % 
+Nix                      18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+conf                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 12 mins       ███████████████░░░░░░░░░░   59.00 % 
-Cursor                   1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Agent                    58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Neovim                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Claude Code              1 hr 9 mins         ████████████████░░░░░░░░░   62.37 % 
+Agent                    27 mins             ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+Neovim                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Cursor                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 23 mins (99.13%)
+⏱ AI Coding Time: 1 hr 48 mins (97.45%)
 
-✍️ 1,650 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 185 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,386,509 Input Tokens, 123,658 Output Tokens
+🔤 148,060 Input Tokens, 37,396 Output Tokens
 
-💵 $15.17 Estimated AI Cost This Week
+💵 $2.22 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 168 AI Prompts
+🧠 12 AI Sessions, 48 AI Prompts
 
-Opus                     1,760 lines         █████████████████████████   100.00 % 
+Opus                     185 lines           █████████████████████████   100.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,382 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📚 Verbose Prompter — average 2,083 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               14 repos            ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Lua                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+TypeScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Lua                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
 
 
- Last Updated on 06/09/2026 20:46:13 UTC
+ Last Updated on 07/09/2026 21:45:55 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
