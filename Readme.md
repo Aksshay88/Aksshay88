@@ -5,9 +5,9 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
-2. ⭐ Starred [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>
-3. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
+1. ⭐ Starred [logpai/Drain3](https://github.com/logpai/Drain3)<br>
+2. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
+3. ⭐ Starred [affaan-m/ECC](https://github.com/affaan-m/ECC)<br>
 4. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
 5. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
 <!--RECENT_ACTIVITY:end-->
