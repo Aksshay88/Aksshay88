@@ -35,38 +35,38 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     37 mins             ████████████░░░░░░░░░░░░░   46.20 % 
-Other                    22 mins             ███████░░░░░░░░░░░░░░░░░░   28.50 % 
-JSON                     19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+TypeScript               1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+Other                    1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
+YAML                     50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Markdown                 44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Nix                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
 
 🔥 Editors: 
-Claude Code              1 hr 20 mins        █████████████████████████   99.51 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Claude Code              4 hrs 28 mins       █████████████████████░░░░   83.93 % 
+Cursor                   42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Agent                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 20 mins (100.0%)
+⏱ AI Coding Time: 5 hrs 19 mins (100.0%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 2,029 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 553,760 Input Tokens, 33,270 Output Tokens
+🔤 3,400,693 Input Tokens, 275,783 Output Tokens
 
-💵 $7.28 Estimated AI Cost This Week
+💵 $39.55 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 31 AI Prompts
+🧠 24 AI Sessions, 94 AI Prompts
 
-Opus                     6 lines             █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     2,059 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 8,958 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,033 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -82,7 +82,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 22:33:43 UTC
+ Last Updated on 01/10/2026 22:53:28 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
