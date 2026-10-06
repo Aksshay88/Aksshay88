@@ -29,42 +29,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.06%20million%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-YAML                     37 mins             ███████████████████████░░   91.29 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-
-🔥 Editors: 
-Claude Code              40 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 40 mins (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 374,805 Input Tokens, 30,156 Output Tokens
-
-💵 $6.45 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 12 AI Prompts
-
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 93 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -78,7 +42,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 00:18:23 UTC
+ Last Updated on 06/10/2026 22:47:29 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
