@@ -29,24 +29,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.06%20million%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -60,7 +42,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 23:33:18 UTC
+ Last Updated on 09/10/2026 22:51:50 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
