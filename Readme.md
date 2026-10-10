@@ -23,11 +23,51 @@
  ---
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-617%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-617%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-258%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-258%20hrs%2028%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.06%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.02%20million%20lines%20of%20code-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JSON                     19 mins             ████████░░░░░░░░░░░░░░░░░   33.89 % 
+Markdown                 15 mins             ███████░░░░░░░░░░░░░░░░░░   27.23 % 
+Other                    14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
+Nix                      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+
+🔥 Editors: 
+Claude Code              41 mins             ███████████████████░░░░░░   74.13 % 
+Cursor                   13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+Neovim                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 55 mins (97.79%)
+
+✍️ 1,115 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,337,970 Input Tokens, 162,850 Output Tokens
+
+💵 $8.52 Estimated AI Cost This Week
+
+🧠 16 AI Sessions, 41 AI Prompts
+
+Opus                     1,104 lines         █████████████████████████   99.01 % 
+Haiku                    11 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,495 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -42,7 +82,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 22:51:50 UTC
+ Last Updated on 10/10/2026 21:58:50 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
