@@ -5,11 +5,11 @@
 ## Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)<br>
-2. ⭐ Starred [denoland/celld](https://github.com/denoland/celld)<br>
-3. ⭐ Starred [openobserve/openobserve](https://github.com/openobserve/openobserve)<br>
-4. ⭐ Starred [px0-ai/px0](https://github.com/px0-ai/px0)<br>
-5. ⭐ Starred [logpai/Drain3](https://github.com/logpai/Drain3)<br>
+1. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
+2. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)<br>
+3. ⭐ Starred [denoland/celld](https://github.com/denoland/celld)<br>
+4. ⭐ Starred [openobserve/openobserve](https://github.com/openobserve/openobserve)<br>
+5. ⭐ Starred [px0-ai/px0](https://github.com/px0-ai/px0)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
