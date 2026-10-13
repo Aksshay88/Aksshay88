@@ -35,16 +35,16 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   35.39 % 
-Markdown                 2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-JSON                     1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Python                   3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   35.40 % 
+Markdown                 2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+JSON                     1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
 TypeScript               1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
 YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 48 mins       ████████████████████████░   95.32 % 
+Claude Code              8 hrs 48 mins       ████████████████████████░   95.34 % 
 Neovim                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -58,7 +58,7 @@ Cursor                   2 mins              ░░░░░░░░░░░�
 
 💵 $166.93 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 129 AI Prompts
+🧠 28 AI Sessions, 128 AI Prompts
 
 Opus                     12,795 lines        █████████████████████░░░░   84.08 % 
 Sonnet                   2,371 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
@@ -67,8 +67,8 @@ Haiku                    11 lines            ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,022 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 1,025 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -85,7 +85,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 00:58:02 UTC
+ Last Updated on 13/10/2026 23:05:12 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
