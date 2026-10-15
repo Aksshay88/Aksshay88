@@ -35,22 +35,22 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   35.40 % 
-Markdown                 2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-JSON                     1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-TypeScript               1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Python                   3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   35.43 % 
+Markdown                 2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+JSON                     1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+TypeScript               1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 48 mins       ████████████████████████░   95.34 % 
-Neovim                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Claude Code              8 hrs 48 mins       ████████████████████████░   95.43 % 
+Neovim                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 12 mins (99.67%)
+⏱ AI Coding Time: 9 hrs 11 mins (99.67%)
 
 ✍️ 14,817 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -58,7 +58,7 @@ Cursor                   2 mins              ░░░░░░░░░░░�
 
 💵 $166.93 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 128 AI Prompts
+🧠 27 AI Sessions, 124 AI Prompts
 
 Opus                     12,795 lines        █████████████████████░░░░   84.08 % 
 Sonnet                   2,371 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
@@ -67,7 +67,7 @@ Haiku                    11 lines            ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,025 characters per prompt
+📄 Detailed Prompter — average 1,043 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -85,7 +85,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 21:55:44 UTC
+ Last Updated on 15/10/2026 21:43:16 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
