@@ -35,16 +35,16 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   35.43 % 
-Markdown                 2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
-JSON                     1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-TypeScript               1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Python                   3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   35.45 % 
+Markdown                 2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+JSON                     1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+TypeScript               1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
 YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 48 mins       ████████████████████████░   95.43 % 
+Claude Code              8 hrs 48 mins       ████████████████████████░   95.48 % 
 Neovim                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -58,7 +58,7 @@ Cursor                   2 mins              ░░░░░░░░░░░�
 
 💵 $166.93 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 124 AI Prompts
+🧠 26 AI Sessions, 121 AI Prompts
 
 Opus                     12,795 lines        █████████████████████░░░░   84.08 % 
 Sonnet                   2,371 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
@@ -67,7 +67,7 @@ Haiku                    11 lines            ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,043 characters per prompt
+📄 Detailed Prompter — average 1,062 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -85,7 +85,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 21:43:16 UTC
+ Last Updated on 16/10/2026 21:38:33 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
