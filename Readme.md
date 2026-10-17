@@ -35,39 +35,37 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   35.45 % 
-Markdown                 2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
-JSON                     1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-TypeScript               1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Python                   3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.37 % 
+Markdown                 2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+JSON                     1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+TypeScript               1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 48 mins       ████████████████████████░   95.48 % 
-Neovim                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Claude Code              8 hrs 37 mins       ████████████████████████░   95.97 % 
+Neovim                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 11 mins (99.67%)
+⏱ AI Coding Time: 8 hrs 58 mins (99.9%)
 
-✍️ 14,817 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 13,702 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,128,325 Input Tokens, 1,085,196 Output Tokens
+🔤 7,949,508 Input Tokens, 1,005,794 Output Tokens
 
-💵 $166.93 Estimated AI Cost This Week
+💵 $165.28 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 121 AI Prompts
+🧠 23 AI Sessions, 112 AI Prompts
 
-Opus                     12,795 lines        █████████████████████░░░░   84.08 % 
-Sonnet                   2,371 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-GLM                      40 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Haiku                    11 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Opus                     11,691 lines        █████████████████████░░░░   82.90 % 
+Sonnet                   2,371 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+GLM                      40 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,062 characters per prompt
+📄 Detailed Prompter — average 1,125 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -85,7 +83,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 21:38:33 UTC
+ Last Updated on 17/10/2026 20:54:02 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
