@@ -35,29 +35,29 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.37 % 
-Markdown                 2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-JSON                     1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-TypeScript               1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Python                   3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.64 % 
+Markdown                 2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+JSON                     1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+TypeScript               1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 37 mins       ████████████████████████░   95.97 % 
-Neovim                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Claude Code              8 hrs 33 mins       ████████████████████████░   95.94 % 
+Neovim                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 58 mins (99.9%)
+⏱ AI Coding Time: 8 hrs 54 mins (99.9%)
 
 ✍️ 13,702 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,949,508 Input Tokens, 1,005,794 Output Tokens
+🔤 7,822,813 Input Tokens, 1,000,236 Output Tokens
 
-💵 $165.28 Estimated AI Cost This Week
+💵 $164.63 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 112 AI Prompts
+🧠 22 AI Sessions, 109 AI Prompts
 
 Opus                     11,691 lines        █████████████████████░░░░   82.90 % 
 Sonnet                   2,371 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
@@ -65,7 +65,7 @@ GLM                      40 lines            ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,125 characters per prompt
+📄 Detailed Prompter — average 1,144 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -83,7 +83,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 20:54:02 UTC
+ Last Updated on 18/10/2026 21:00:34 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
