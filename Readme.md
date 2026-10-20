@@ -29,6 +29,47 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.15%20million%20lines%20of%20code-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               1 hr 17 mins        █████████████░░░░░░░░░░░░   52.24 % 
+Other                    42 mins             ███████░░░░░░░░░░░░░░░░░░   28.47 % 
+Go                       25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+
+🔥 Editors: 
+Claude Code              1 hr 49 mins        ██████████████████░░░░░░░   73.83 % 
+Vim                      38 mins             ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 27 mins (99.89%)
+
+✍️ 1,069 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,895,474 Input Tokens, 190,197 Output Tokens
+
+💵 $22.41 Estimated AI Cost This Week
+
+🧠 9 AI Sessions, 29 AI Prompts
+
+Opus                     1,069 lines         █████████████████████████   100.00 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 555 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -42,7 +83,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 22:37:00 UTC
+ Last Updated on 20/10/2026 21:50:48 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
