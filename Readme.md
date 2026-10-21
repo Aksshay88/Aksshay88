@@ -35,22 +35,22 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 17 mins        █████████████░░░░░░░░░░░░   52.24 % 
-Other                    42 mins             ███████░░░░░░░░░░░░░░░░░░   28.47 % 
-Go                       25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               1 hr 17 mins        █████████████░░░░░░░░░░░░   52.69 % 
+Other                    40 mins             ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+Go                       25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Claude Code              1 hr 49 mins        ██████████████████░░░░░░░   73.83 % 
-Vim                      38 mins             ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+Claude Code              1 hr 49 mins        ███████████████████░░░░░░   74.45 % 
+Vim                      37 mins             ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
 Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 27 mins (99.89%)
+⏱ AI Coding Time: 2 hrs 26 mins (99.89%)
 
 ✍️ 1,069 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -58,14 +58,14 @@ Neovim                   0 secs              ░░░░░░░░░░░�
 
 💵 $22.41 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 29 AI Prompts
+🧠 8 AI Sessions, 27 AI Prompts
 
 Opus                     1,069 lines         █████████████████████████   100.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 555 characters per prompt
+📄 Detailed Prompter — average 590 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -83,7 +83,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 21:50:48 UTC
+ Last Updated on 21/10/2026 21:58:01 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
