@@ -35,35 +35,17 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    2 mins              ████████████████████████░   94.61 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+JSON                     0 secs              ████████████░░░░░░░░░░░░░   50.00 % 
+Markdown                 0 secs              ████████████░░░░░░░░░░░░░   50.00 % 
 
 🔥 Editors: 
-Claude Code              2 mins              ████████████████████████░   94.61 % 
-Neovim                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Neovim                   0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (94.61%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 74,319 Input Tokens, 1,341 Output Tokens
-
-💵 $1.22 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 4 AI Prompts
-
-GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 98 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -79,7 +61,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 21:37:36 UTC
+ Last Updated on 24/10/2026 21:08:26 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
