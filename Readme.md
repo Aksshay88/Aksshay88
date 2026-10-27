@@ -9,7 +9,6 @@
 2. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
 3. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)<br>
 4. ⭐ Starred [denoland/celld](https://github.com/denoland/celld)<br>
-5. ⭐ Starred [openobserve/openobserve](https://github.com/openobserve/openobserve)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
