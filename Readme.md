@@ -22,50 +22,11 @@
  ---
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-626%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-626%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-267%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-268%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.15%20million%20lines%20of%20code-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    26 mins             ███████████████░░░░░░░░░░   59.79 % 
-HTML                     12 mins             ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-TSConfig                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-conf                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-
-🔥 Editors: 
-Claude Code              41 mins             ████████████████████████░   94.05 % 
-Neovim                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 44 mins (100.0%)
-
-✍️ 64 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 1,137,081 Input Tokens, 77,705 Output Tokens
-
-💵 $7.24 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 14 AI Prompts
-
-Opus                     64 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 341 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
 
 **I Mostly Code in TypeScript** 
 
@@ -80,7 +41,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 22:34:29 UTC
+ Last Updated on 28/10/2026 22:48:34 UTC
 <!--END_SECTION:waka-->
 
 # 🌸 My recent AniList activity
