@@ -9,7 +9,6 @@
 2. ⭐ Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)<br>
 3. ⭐ Starred [BerriAI/litellm](https://github.com/BerriAI/litellm)<br>
 4. ⭐ Starred [Saffsanity/sill](https://github.com/Saffsanity/sill)<br>
-5. ⬆️ Pushed undefined commit(s) to [Aksshay88/nix-dots](https://github.com/Aksshay88/nix-dots)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
