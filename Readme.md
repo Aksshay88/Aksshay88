@@ -8,7 +8,6 @@
 1. ⭐ Starred [devrev/enterprise-bench](https://github.com/devrev/enterprise-bench)<br>
 2. ⭐ Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)<br>
 3. ⭐ Starred [BerriAI/litellm](https://github.com/BerriAI/litellm)<br>
-4. ⭐ Starred [Saffsanity/sill](https://github.com/Saffsanity/sill)<br>
 <!--RECENT_ACTIVITY:end-->
 
  ---
